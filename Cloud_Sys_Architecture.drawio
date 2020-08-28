@@ -1,4 +1,4 @@
-<mxfile modified="2020-08-28T07:51:06.778Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="DTwEOi5b_JGz2aW-Co7N" version="13.6.5" type="github">
+<mxfile modified="2020-08-28T07:53:42.071Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="YBkvcGDowBIAQQVwoSMa" version="13.6.5" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -318,6 +318,15 @@
         </mxCell>
         <mxCell id="QFQmXC5sFYSZ4ZFRvqXh-73" value="" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;fontSize=14;dashed=0;fontStyle=0;align=center;verticalAlign=top;strokeColor=#d79b00;spacingLeft=0;labelPosition=center;verticalLabelPosition=bottom;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="790" y="630" width="310" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="QFQmXC5sFYSZ4ZFRvqXh-78" value="Service" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/free-3d-social-icons/png/128x128/MySpace.png;fontSize=11;fontColor=#000000;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="830" y="650" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QFQmXC5sFYSZ4ZFRvqXh-79" value="분석 자료 공유" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud_service_package_file;fontSize=11;fontColor=#000000;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="931.25" y="650" width="42.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QFQmXC5sFYSZ4ZFRvqXh-80" value="분석 일정 공유" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/ikooni-outline-free-basic/128/free-20-128.png;fontSize=11;fontColor=#000000;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="1016" y="650" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
