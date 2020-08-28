@@ -1,4 +1,4 @@
-<mxfile modified="2020-08-28T07:48:58.615Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="7PvL05kFnL9WovoGjHrJ" version="13.6.5" type="github">
+<mxfile modified="2020-08-28T07:51:06.778Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="DTwEOi5b_JGz2aW-Co7N" version="13.6.5" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -283,8 +283,8 @@
         <mxCell id="QFQmXC5sFYSZ4ZFRvqXh-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.55;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QFQmXC5sFYSZ4ZFRvqXh-46" target="SCVMTBWpLvtzJIhz15lM-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QFQmXC5sFYSZ4ZFRvqXh-46" value="시험 분석 방법 및 장비 설정&amp;nbsp;" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/devops/build_test.svg;" vertex="1" parent="1">
-          <mxGeometry x="626" y="326" width="60" height="60" as="geometry" />
+        <mxCell id="QFQmXC5sFYSZ4ZFRvqXh-46" value="시험 분석 방법 및 장비 설정&amp;nbsp;" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;labelBackgroundColor=#ffffff;fontSize=11;spacingTop=3;image;image=img/lib/ibm/devops/build_test.svg;" vertex="1" parent="1">
+          <mxGeometry x="626" y="326" width="54" height="54" as="geometry" />
         </mxCell>
         <mxCell id="QFQmXC5sFYSZ4ZFRvqXh-49" value="5" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="930" y="210" width="40" height="38" as="geometry" />
@@ -310,7 +310,10 @@
             <mxPoint x="959.5" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QFQmXC5sFYSZ4ZFRvqXh-71" value="공유 플랫폼" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/quarantine-4/64/online_community_work_communication_meeting_monitor0-128.png;opacity=30;" vertex="1" parent="1">
+        <mxCell id="QFQmXC5sFYSZ4ZFRvqXh-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;fontColor=#000000;" edge="1" parent="1" source="QFQmXC5sFYSZ4ZFRvqXh-71" target="QFQmXC5sFYSZ4ZFRvqXh-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QFQmXC5sFYSZ4ZFRvqXh-71" value="공유 플랫폼" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/quarantine-4/64/online_community_work_communication_meeting_monitor0-128.png;opacity=30;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="626" y="650" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QFQmXC5sFYSZ4ZFRvqXh-73" value="" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;fontSize=14;dashed=0;fontStyle=0;align=center;verticalAlign=top;strokeColor=#d79b00;spacingLeft=0;labelPosition=center;verticalLabelPosition=bottom;opacity=50;" vertex="1" parent="1">
