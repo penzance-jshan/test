@@ -1,9 +1,18 @@
-<mxfile modified="2020-08-28T06:51:14.895Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="LKIm2KGMtuqf8BxboOgZ" version="13.6.5" type="github">
+<mxfile modified="2020-08-28T06:56:59.049Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="pirYZ0KIDc14yaPbd2zR" version="13.6.5" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="QFQmXC5sFYSZ4ZFRvqXh-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.044;exitY=0.144;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="-QjtrjUzRDEMRZ5MF8oH-14" target="QFQmXC5sFYSZ4ZFRvqXh-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QFQmXC5sFYSZ4ZFRvqXh-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=-0.008;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-QjtrjUzRDEMRZ5MF8oH-14" target="QFQmXC5sFYSZ4ZFRvqXh-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QFQmXC5sFYSZ4ZFRvqXh-17" value="플랫폼 접속" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.033;exitY=0.437;exitDx=0;exitDy=0;entryX=0;entryY=0.437;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="-QjtrjUzRDEMRZ5MF8oH-14" target="QFQmXC5sFYSZ4ZFRvqXh-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-QjtrjUzRDEMRZ5MF8oH-14" value="Device" style="whiteSpace=wrap;html=1;fillColor=none;fontSize=14;fontColor=#000000;dashed=0;fontStyle=0;align=center;verticalAlign=top;strokeColor=#D86613;gradientColor=none;spacingLeft=0;labelPosition=center;verticalLabelPosition=bottom;" parent="1" vertex="1">
           <mxGeometry x="90" y="260" width="90" height="270" as="geometry" />
         </mxCell>
@@ -20,7 +29,7 @@
           <mxGeometry x="216" y="817" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="-QjtrjUzRDEMRZ5MF8oH-9" value="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;" parent="1" vertex="1">
-          <mxGeometry x="178" y="577" width="40" height="38" as="geometry" />
+          <mxGeometry x="117.25" y="210" width="40" height="38" as="geometry" />
         </mxCell>
         <mxCell id="-QjtrjUzRDEMRZ5MF8oH-10" value="ML Model Executable" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#116D5B;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.sagemaker_model;" parent="1" vertex="1">
           <mxGeometry x="428" y="610" width="78" height="78" as="geometry" />
@@ -65,10 +74,10 @@
           <mxGeometry x="879" y="1213.5" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="-QjtrjUzRDEMRZ5MF8oH-27" value="2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;" parent="1" vertex="1">
-          <mxGeometry x="438" y="530" width="40" height="38" as="geometry" />
+          <mxGeometry x="323" y="210" width="40" height="38" as="geometry" />
         </mxCell>
         <mxCell id="-QjtrjUzRDEMRZ5MF8oH-28" value="3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;" parent="1" vertex="1">
-          <mxGeometry x="778" y="541" width="40" height="38" as="geometry" />
+          <mxGeometry x="578" y="210" width="40" height="38" as="geometry" />
         </mxCell>
         <mxCell id="-QjtrjUzRDEMRZ5MF8oH-29" value="4" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="588" y="765" width="40" height="38" as="geometry" />
@@ -94,8 +103,8 @@
         <mxCell id="-QjtrjUzRDEMRZ5MF8oH-47" value="Service Platform SW Architecture" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=30;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="56.5" y="64.5" width="490" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-QjtrjUzRDEMRZ5MF8oH-48" value="확장 기능을 고려한 마이크로서비스 구성 방법" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="56.5" y="114.5" width="340" height="20" as="geometry" />
+        <mxCell id="-QjtrjUzRDEMRZ5MF8oH-48" value="시험 분석 SW 플랫폼 흐름도" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="56.5" y="114.5" width="220" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-QjtrjUzRDEMRZ5MF8oH-49" value="Label" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="84.5" y="164.5" width="50" height="20" as="geometry" />
@@ -113,14 +122,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SCVMTBWpLvtzJIhz15lM-5" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="370" y="614" width="20" height="290" as="geometry" />
-        </mxCell>
-        <mxCell id="SCVMTBWpLvtzJIhz15lM-17" value="플랫폼 접속" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=open;elbow=vertical;startArrow=none;endFill=0;strokeColor=#545B64;rounded=0;fontSize=14;strokeWidth=2;" parent="1" edge="1">
-          <mxGeometry x="-0.037" y="20" width="100" relative="1" as="geometry">
-            <mxPoint x="187" y="300" as="sourcePoint" />
-            <mxPoint x="327" y="300" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
+          <mxGeometry x="426" y="260" width="20" height="270" as="geometry" />
         </mxCell>
         <mxCell id="SCVMTBWpLvtzJIhz15lM-18" value="&lt;span&gt;Label&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=none;elbow=vertical;startArrow=open;endFill=0;strokeColor=#545B64;rounded=0;fontSize=14;strokeWidth=2;startFill=0;" parent="1" edge="1">
           <mxGeometry x="-0.037" y="20" width="100" relative="1" as="geometry">
@@ -221,28 +223,17 @@
             <mxPoint x="947" y="621.9677419354839" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QFQmXC5sFYSZ4ZFRvqXh-1" value="Amazon SageMaker" style="whiteSpace=wrap;html=1;fillColor=none;fontSize=14;fontColor=#000000;dashed=0;fontStyle=0;align=center;verticalAlign=top;strokeColor=#D86613;gradientColor=none;spacingLeft=0;labelPosition=center;verticalLabelPosition=bottom;" vertex="1" parent="1">
-          <mxGeometry x="340" y="260" width="232" height="160" as="geometry" />
+        <mxCell id="QFQmXC5sFYSZ4ZFRvqXh-1" value="시험분석 SW" style="whiteSpace=wrap;html=1;fillColor=none;fontSize=14;fontColor=#000000;dashed=0;fontStyle=0;align=center;verticalAlign=top;strokeColor=#D86613;gradientColor=none;spacingLeft=0;labelPosition=center;verticalLabelPosition=bottom;" vertex="1" parent="1">
+          <mxGeometry x="281" y="260" width="124" height="270" as="geometry" />
         </mxCell>
         <mxCell id="QFQmXC5sFYSZ4ZFRvqXh-5" value="Mobile client" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.mobile_client;" vertex="1" parent="1">
           <mxGeometry x="113.25" y="350" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QFQmXC5sFYSZ4ZFRvqXh-8" value="Chip-set" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#277116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.hardware_board;" vertex="1" parent="1">
-          <mxGeometry x="112.25" y="430" width="50" height="50" as="geometry" />
+          <mxGeometry x="112.25" y="440" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="QFQmXC5sFYSZ4ZFRvqXh-11" value="플랫폼 접속" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=open;elbow=vertical;startArrow=none;endFill=0;strokeColor=#545B64;rounded=0;fontSize=14;strokeWidth=2;" edge="1" parent="1">
-          <mxGeometry x="-0.037" y="20" width="100" relative="1" as="geometry">
-            <mxPoint x="187" y="380" as="sourcePoint" />
-            <mxPoint x="327" y="380" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QFQmXC5sFYSZ4ZFRvqXh-12" value="플랫폼 접속" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=open;elbow=vertical;startArrow=none;endFill=0;strokeColor=#545B64;rounded=0;fontSize=14;strokeWidth=2;" edge="1" parent="1">
-          <mxGeometry x="-0.037" y="20" width="100" relative="1" as="geometry">
-            <mxPoint x="187" y="460" as="sourcePoint" />
-            <mxPoint x="327" y="460" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="QFQmXC5sFYSZ4ZFRvqXh-13" value="시험 분석 SW 플랫폼" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/internet-security-flat-2/32/Internet_Security_Browser_webpage_website_web_page-128.png" vertex="1" parent="1">
+          <mxGeometry x="294" y="326" width="98" height="98" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
