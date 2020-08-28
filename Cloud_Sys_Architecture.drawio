@@ -1,4 +1,4 @@
-<mxfile modified="2020-08-28T07:11:07.392Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="VpYXp5pRZLcfEpIcanTO" version="13.6.5" type="github">
+<mxfile modified="2020-08-28T07:13:27.985Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="0fg-qY0VUUKs8MMrTH6n" version="13.6.5" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -235,13 +235,13 @@
         <mxCell id="QFQmXC5sFYSZ4ZFRvqXh-5" value="Mobile client" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.mobile_client;" vertex="1" parent="1">
           <mxGeometry x="113.25" y="350" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="QFQmXC5sFYSZ4ZFRvqXh-8" value="Chip-set" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#277116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.hardware_board;" vertex="1" parent="1">
+        <mxCell id="QFQmXC5sFYSZ4ZFRvqXh-8" value="하드웨어 장비" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#277116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.hardware_board;" vertex="1" parent="1">
           <mxGeometry x="112.25" y="440" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QFQmXC5sFYSZ4ZFRvqXh-13" value="시험 분석 SW 플랫폼" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/internet-security-flat-2/32/Internet_Security_Browser_webpage_website_web_page-128.png" vertex="1" parent="1">
           <mxGeometry x="294" y="326" width="98" height="98" as="geometry" />
         </mxCell>
-        <mxCell id="QFQmXC5sFYSZ4ZFRvqXh-20" value="AWS IoT Analytics" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#60A337;gradientDirection=north;fillColor=#277116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.iot_analytics;" vertex="1" parent="1">
+        <mxCell id="QFQmXC5sFYSZ4ZFRvqXh-20" value="AI 분석&lt;br&gt;" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#60A337;gradientDirection=north;fillColor=#277116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.iot_analytics;" vertex="1" parent="1">
           <mxGeometry x="680" y="270" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QFQmXC5sFYSZ4ZFRvqXh-23" value="Result Analysis" style="image;html=1;image=img/lib/clip_art/finance/Pie_Chart_128x128.png" vertex="1" parent="1">
@@ -253,10 +253,13 @@
         <mxCell id="QFQmXC5sFYSZ4ZFRvqXh-26" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/software-engineering-and-video-gaming/512/93_man_user_login_id_identity-128.png" vertex="1" parent="1">
           <mxGeometry x="475" y="460" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="QFQmXC5sFYSZ4ZFRvqXh-28" value="User Info" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.015;exitY=0.593;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="QFQmXC5sFYSZ4ZFRvqXh-27" target="QFQmXC5sFYSZ4ZFRvqXh-26">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="QFQmXC5sFYSZ4ZFRvqXh-28" value="사용자 정보 확인" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.015;exitY=0.593;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410.95000000000005" y="419.1099999999999" as="sourcePoint" />
+            <mxPoint x="509" y="459" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="QFQmXC5sFYSZ4ZFRvqXh-30" value="Device Info" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.359;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="QFQmXC5sFYSZ4ZFRvqXh-27" target="QFQmXC5sFYSZ4ZFRvqXh-33">
+        <mxCell id="QFQmXC5sFYSZ4ZFRvqXh-30" value="접속 장비&amp;nbsp; 정보 확인" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.359;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="QFQmXC5sFYSZ4ZFRvqXh-27" target="QFQmXC5sFYSZ4ZFRvqXh-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QFQmXC5sFYSZ4ZFRvqXh-27" value="" style="whiteSpace=wrap;html=1;fillColor=none;fontSize=14;fontColor=#000000;dashed=0;fontStyle=0;align=center;verticalAlign=top;strokeColor=#D86613;gradientColor=none;spacingLeft=0;labelPosition=center;verticalLabelPosition=bottom;" vertex="1" parent="1">
