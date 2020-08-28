@@ -1,4 +1,4 @@
-<mxfile modified="2020-08-28T07:29:34.989Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="QzjIjSYuBRmzdbSKa2g0" version="13.6.5" type="github">
+<mxfile modified="2020-08-28T07:30:20.416Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="nxxnTL5NiOd0_8sQH1e1" version="13.6.5" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -233,7 +233,7 @@
           <mxGeometry x="1022.8" y="268.5" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QFQmXC5sFYSZ4ZFRvqXh-23" value="데이터 분석 현황" style="image;html=1;image=img/lib/clip_art/finance/Pie_Chart_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="810" y="380" width="50" height="60" as="geometry" />
+          <mxGeometry x="830" y="375" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QFQmXC5sFYSZ4ZFRvqXh-25" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-app-2/16/user-avatar-human-admin-login-128.png" vertex="1" parent="1">
           <mxGeometry x="316" y="1000" width="128" height="128" as="geometry" />
@@ -269,12 +269,12 @@
           <mxGeometry x="459.5" y="460" width="101" height="70" as="geometry" />
         </mxCell>
         <mxCell id="QFQmXC5sFYSZ4ZFRvqXh-40" value="Reports" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.report;" vertex="1" parent="1">
-          <mxGeometry x="986" y="469.6" width="36.8" height="50.8" as="geometry" />
+          <mxGeometry x="1016" y="424" width="36.8" height="50.8" as="geometry" />
         </mxCell>
         <mxCell id="QFQmXC5sFYSZ4ZFRvqXh-42" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=open;elbow=vertical;startArrow=none;endFill=0;strokeColor=#545B64;rounded=0;fontSize=14;" edge="1" parent="1">
           <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="908" y="494.5" as="sourcePoint" />
-            <mxPoint x="968" y="494.5" as="targetPoint" />
+            <mxPoint x="922.5" y="440" as="sourcePoint" />
+            <mxPoint x="982.5" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QFQmXC5sFYSZ4ZFRvqXh-43" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=open;elbow=vertical;startArrow=none;endFill=0;strokeColor=#545B64;rounded=0;fontSize=14;" edge="1" parent="1">
@@ -293,7 +293,7 @@
           <mxGeometry x="930" y="210" width="40" height="38" as="geometry" />
         </mxCell>
         <mxCell id="QFQmXC5sFYSZ4ZFRvqXh-53" value="데이터 내용 확인" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/business-management-3-4/256/m-21-128.png;opacity=50;" vertex="1" parent="1">
-          <mxGeometry x="913" y="375" width="65" height="65" as="geometry" />
+          <mxGeometry x="828" y="465" width="65" height="65" as="geometry" />
         </mxCell>
         <mxCell id="QFQmXC5sFYSZ4ZFRvqXh-54" value="AI 모델 생성" style="fillColor=#28A8E0;verticalLabelPosition=bottom;html=1;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=ellipse;resIcon=mxgraph.cisco_safe.capability.analysis_correlation;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="924" y="266.25" width="57" height="53" as="geometry" />
@@ -303,8 +303,8 @@
         </mxCell>
         <mxCell id="QFQmXC5sFYSZ4ZFRvqXh-56" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=open;elbow=vertical;startArrow=none;endFill=0;strokeColor=#545B64;rounded=0;fontSize=14;" edge="1" parent="1">
           <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="918" y="504.5" as="sourcePoint" />
-            <mxPoint x="978" y="504.5" as="targetPoint" />
+            <mxPoint x="933" y="450" as="sourcePoint" />
+            <mxPoint x="993" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QFQmXC5sFYSZ4ZFRvqXh-59" value="SW Core" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#60A337;gradientDirection=north;fillColor=#277116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.internet_of_things;" vertex="1" parent="1">
