@@ -1,4 +1,4 @@
-<mxfile modified="2020-08-28T08:04:11.982Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="Zs8amRZ0-5SsubYVB5uj" version="13.6.5" type="github">
+<mxfile modified="2020-08-28T08:05:21.716Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="rZqkupbNyJt8BjCZMCHW" version="13.6.5" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -178,6 +178,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="QFQmXC5sFYSZ4ZFRvqXh-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=11;fontColor=#000000;" edge="1" parent="1" source="QFQmXC5sFYSZ4ZFRvqXh-83" target="QFQmXC5sFYSZ4ZFRvqXh-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QFQmXC5sFYSZ4ZFRvqXh-83" value="Device" style="whiteSpace=wrap;html=1;fillColor=none;fontSize=14;fontColor=#000000;dashed=0;fontStyle=0;align=center;verticalAlign=top;strokeColor=#D86613;gradientColor=none;spacingLeft=0;labelPosition=center;verticalLabelPosition=bottom;" vertex="1" parent="1">
           <mxGeometry x="130" y="960" width="90" height="430" as="geometry" />
         </mxCell>
@@ -203,10 +206,13 @@
           <mxGeometry x="109" y="274.5" width="52" height="38" as="geometry" />
         </mxCell>
         <mxCell id="QFQmXC5sFYSZ4ZFRvqXh-98" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="318" y="1121" width="32" height="149" as="geometry" />
+          <mxGeometry x="320" y="1121" width="30" height="129" as="geometry" />
         </mxCell>
         <mxCell id="QFQmXC5sFYSZ4ZFRvqXh-99" value="tablet" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.tab2;strokeColor=#c0c0c0;direction=north;fontSize=11;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="365.65" y="1121" width="73" height="52" as="geometry" />
+          <mxGeometry x="365.65" y="1121" width="74.35" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="QFQmXC5sFYSZ4ZFRvqXh-101" value="Mobile Phone" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;fontSize=11;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="390.07" y="1216" width="24.14" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
