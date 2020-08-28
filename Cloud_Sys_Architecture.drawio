@@ -1,4 +1,4 @@
-<mxfile modified="2020-08-28T07:21:08.774Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="2zn1tjZrmrcgsQSpEohV" version="13.6.5" type="github">
+<mxfile modified="2020-08-28T07:23:03.265Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="htqPA90trfYPp5BFrkP3" version="13.6.5" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -23,7 +23,7 @@
           <mxGeometry x="90" y="260" width="90" height="270" as="geometry" />
         </mxCell>
         <mxCell id="SCVMTBWpLvtzJIhz15lM-34" value="" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;fontSize=14;dashed=0;fontStyle=0;align=center;verticalAlign=top;strokeColor=#d79b00;spacingLeft=0;labelPosition=center;verticalLabelPosition=bottom;opacity=50;" parent="1" vertex="1">
-          <mxGeometry x="790" y="260" width="340" height="90" as="geometry" />
+          <mxGeometry x="790" y="260" width="90" height="180" as="geometry" />
         </mxCell>
         <mxCell id="-QjtrjUzRDEMRZ5MF8oH-6" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#277116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.lightbulb;" parent="1" vertex="1">
           <mxGeometry x="238" y="1032.5" width="78" height="78" as="geometry" />
@@ -214,12 +214,6 @@
         <mxCell id="SCVMTBWpLvtzJIhz15lM-32" value="Optimize" style="outlineConnect=0;gradientColor=none;fontColor=#545B64;strokeColor=none;fillColor=#879196;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.illustration_devices;pointerEvents=1" parent="1" vertex="1">
           <mxGeometry x="1007" y="1039.5" width="52" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="SCVMTBWpLvtzJIhz15lM-33" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=open;elbow=vertical;startArrow=none;endFill=0;strokeColor=#545B64;rounded=0;fontSize=14;" parent="1" edge="1">
-          <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="831.5" y="294.5" as="sourcePoint" />
-            <mxPoint x="891.5" y="294.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="SCVMTBWpLvtzJIhz15lM-35" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=open;elbow=vertical;startArrow=none;endFill=0;strokeColor=#545B64;rounded=0;fontSize=14;" parent="1" edge="1">
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint x="967" y="1008.4677419354839" as="sourcePoint" />
@@ -236,10 +230,10 @@
           <mxGeometry x="294" y="326" width="98" height="98" as="geometry" />
         </mxCell>
         <mxCell id="QFQmXC5sFYSZ4ZFRvqXh-20" value="AI 분석&lt;br&gt;" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#60A337;gradientDirection=north;fillColor=#277116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.iot_analytics;" vertex="1" parent="1">
-          <mxGeometry x="917" y="340" width="50" height="50" as="geometry" />
+          <mxGeometry x="810" y="270" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="QFQmXC5sFYSZ4ZFRvqXh-23" value="데이터 분석" style="image;html=1;image=img/lib/clip_art/finance/Pie_Chart_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="1029.3" y="365" width="50" height="60" as="geometry" />
+        <mxCell id="QFQmXC5sFYSZ4ZFRvqXh-23" value="데이터 분석 현황" style="image;html=1;image=img/lib/clip_art/finance/Pie_Chart_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="810" y="460" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QFQmXC5sFYSZ4ZFRvqXh-25" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-app-2/16/user-avatar-human-admin-login-128.png" vertex="1" parent="1">
           <mxGeometry x="316" y="1000" width="128" height="128" as="geometry" />
@@ -275,12 +269,12 @@
           <mxGeometry x="459.5" y="460" width="101" height="70" as="geometry" />
         </mxCell>
         <mxCell id="QFQmXC5sFYSZ4ZFRvqXh-40" value="Reports" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.report;" vertex="1" parent="1">
-          <mxGeometry x="1042.5" y="269.2" width="36.8" height="50.8" as="geometry" />
+          <mxGeometry x="986" y="469.6" width="36.8" height="50.8" as="geometry" />
         </mxCell>
         <mxCell id="QFQmXC5sFYSZ4ZFRvqXh-42" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=open;elbow=vertical;startArrow=none;endFill=0;strokeColor=#545B64;rounded=0;fontSize=14;" edge="1" parent="1">
           <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="964.5" y="294.1" as="sourcePoint" />
-            <mxPoint x="1024.5" y="294.1" as="targetPoint" />
+            <mxPoint x="908" y="494.5" as="sourcePoint" />
+            <mxPoint x="968" y="494.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QFQmXC5sFYSZ4ZFRvqXh-43" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=open;elbow=vertical;startArrow=none;endFill=0;strokeColor=#545B64;rounded=0;fontSize=14;" edge="1" parent="1">
