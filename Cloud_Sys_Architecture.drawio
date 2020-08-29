@@ -1,4 +1,4 @@
-<mxfile modified="2020-08-29T16:46:53.375Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="VT6XxTKqVnHthQBIuB3c" version="13.6.5" type="github">
+<mxfile modified="2020-08-29T16:47:34.097Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="vsKWcJ0XRktfA3BmoP3U" version="13.6.5" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -274,7 +274,7 @@
         <mxCell id="P20q1qlM85yPXvBPcYlH-21" value="시험 장비 등록" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/fatcow/32/cash_register_2.png" vertex="1" parent="1">
           <mxGeometry x="636" y="480" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="P20q1qlM85yPXvBPcYlH-24" value="[Layer 1] SW 플랫폼 연결 장비" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="P20q1qlM85yPXvBPcYlH-24" value="[Layer 2] 시험 분석 SW 플랫폼&amp;nbsp;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="79.99999999999999" y="1720" width="240" height="20" as="geometry" />
         </mxCell>
       </root>
