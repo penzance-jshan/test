@@ -1,4 +1,4 @@
-<mxfile modified="2020-08-29T17:00:33.815Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="3-PMUZFdkOS2XQ_z4cwd" version="13.6.5" type="github">
+<mxfile modified="2020-08-29T17:01:17.646Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="4XgODH4Elpmk-cYl98-5" version="13.6.5" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -271,8 +271,8 @@
         <mxCell id="P20q1qlM85yPXvBPcYlH-24" value="[Layer 2] 시험 분석 SW 플랫폼&amp;nbsp;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="79.99999999999999" y="1720" width="240" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="P20q1qlM85yPXvBPcYlH-25" value="[Layer 3] 시험 분석 SW 플랫폼&amp;nbsp;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="79.99999999999999" y="2540" width="240" height="20" as="geometry" />
+        <mxCell id="P20q1qlM85yPXvBPcYlH-25" value="[Layer 3] 사용자 및 장비 정보 확인&amp;nbsp;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="79.99999999999999" y="2540" width="270" height="20" as="geometry" />
         </mxCell>
         <mxCell id="P20q1qlM85yPXvBPcYlH-26" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;fontSize=22;labelBackgroundColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="570" y="1150" width="532.5" height="160" as="geometry" />
