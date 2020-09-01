@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-01T07:13:06.300Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="r2pWLT6z9pUYEM8Ugm2k" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-01T07:13:38.243Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="j4B6QWStlrSgjydmDRCk" version="13.6.5" type="github">
   <diagram name="DB_설계" id="2ca16b54-16f6-2749-3443-fa8db7711227">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -126,10 +126,14 @@
             <mxPoint x="970" y="255" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6gQ9HQKvSop3FAuou3j7-8" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0;entryY=0.721;labelBackgroundColor=none;startArrow=ERmandOne;endArrow=ERoneToMany;fontFamily=Verdana;fontSize=12;align=left;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6gQ9HQKvSop3FAuou3j7-1" target="2ed32ef02a7f4228-10">
+        <mxCell id="6gQ9HQKvSop3FAuou3j7-8" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=none;startArrow=ERmandOne;endArrow=ERoneToMany;fontFamily=Verdana;fontSize=12;align=left;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.542;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6gQ9HQKvSop3FAuou3j7-1" target="2ed32ef02a7f4228-10">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="397.5" y="365" as="sourcePoint" />
-            <mxPoint x="580" y="225" as="targetPoint" />
+            <mxPoint x="572" y="820" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="388" />
+              <mxPoint x="480" y="830" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="6gQ9HQKvSop3FAuou3j7-9" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0;entryY=0.5;labelBackgroundColor=none;startArrow=ERmandOne;endArrow=ERoneToMany;fontFamily=Verdana;fontSize=12;align=left;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6gQ9HQKvSop3FAuou3j7-1" target="2ed32ef02a7f4228-2">
