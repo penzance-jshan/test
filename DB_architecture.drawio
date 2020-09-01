@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-01T07:34:28.268Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="BJq6rCS1HgY3SD0f4BCT" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-01T07:41:58.425Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="TJrp1TRX2Cjz47IAoJ3H" version="13.6.5" type="github">
   <diagram name="DB_설계" id="2ca16b54-16f6-2749-3443-fa8db7711227">
     <mxGraphModel dx="1673" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -75,8 +75,8 @@
         <mxCell id="GJxoZnrzB4Zgi5DYV1lP-14" value="테스트 장비" style="text;html=1;resizable=0;points=[];autosize=1;align=center;verticalAlign=top;spacingTop=-4;fontSize=24;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="845" y="130" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GJxoZnrzB4Zgi5DYV1lP-15" value="게시판" style="text;html=1;resizable=0;points=[];autosize=1;align=center;verticalAlign=top;spacingTop=-4;fontSize=24;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="645" y="610" width="90" height="30" as="geometry" />
+        <mxCell id="GJxoZnrzB4Zgi5DYV1lP-15" value="게시판 및 파일 공유" style="text;html=1;resizable=0;points=[];autosize=1;align=center;verticalAlign=top;spacingTop=-4;fontSize=24;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="540" y="610" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GJxoZnrzB4Zgi5DYV1lP-16" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=30;" parent="1" vertex="1">
           <mxGeometry x="1230" y="120" width="330" height="600" as="geometry" />
@@ -100,7 +100,7 @@
           <mxGeometry x="195" y="160" width="185" height="90" as="geometry" />
         </mxCell>
         <mxCell id="6gQ9HQKvSop3FAuou3j7-1" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;LOG_HISTORY&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;/td&gt;&lt;td&gt;CHANGE_DTM&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;LOG_PROJECT&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;LOG_USER&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;LOG_PROGRAM&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;LOG_TYPE&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;ACTION&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="195" y="290" width="185" height="130" as="geometry" />
+          <mxGeometry x="195" y="285" width="185" height="130" as="geometry" />
         </mxCell>
         <mxCell id="6gQ9HQKvSop3FAuou3j7-3" style="edgeStyle=orthogonalEdgeStyle;html=1;dashed=1;labelBackgroundColor=none;startArrow=ERmandOne;endArrow=ERoneToMany;fontFamily=Verdana;fontSize=12;align=left;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GJxoZnrzB4Zgi5DYV1lP-24" target="6gQ9HQKvSop3FAuou3j7-1">
           <mxGeometry relative="1" as="geometry">
@@ -112,6 +112,10 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="760" y="225" as="sourcePoint" />
             <mxPoint x="970" y="255" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="355" />
+              <mxPoint x="480" y="235" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="6gQ9HQKvSop3FAuou3j7-8" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=none;startArrow=ERmandOne;endArrow=ERoneToMany;fontFamily=Verdana;fontSize=12;align=left;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.542;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6gQ9HQKvSop3FAuou3j7-1" target="2ed32ef02a7f4228-10">
