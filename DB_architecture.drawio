@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-01T07:48:07.645Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="6ZeXUOr1_-0Tqm041PYD" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-01T07:48:18.330Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="NBKZRqfnU09adwCisUAk" version="13.6.5" type="github">
   <diagram name="DB_설계" id="2ca16b54-16f6-2749-3443-fa8db7711227">
     <mxGraphModel dx="1673" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -91,7 +91,7 @@
           <mxGeometry x="120" y="120" width="330" height="310" as="geometry" />
         </mxCell>
         <mxCell id="GJxoZnrzB4Zgi5DYV1lP-22" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=30;" parent="1" vertex="1">
-          <mxGeometry x="1230" y="810" width="330" height="310" as="geometry" />
+          <mxGeometry x="1230" y="800" width="330" height="320" as="geometry" />
         </mxCell>
         <mxCell id="GJxoZnrzB4Zgi5DYV1lP-23" value="SW 관리" style="text;html=1;resizable=0;points=[];autosize=1;align=center;verticalAlign=top;spacingTop=-4;fontSize=24;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="120" width="110" height="30" as="geometry" />
