@@ -1,4 +1,4 @@
-<mxfile modified="2020-09-03T05:03:28.203Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="vymi7LBFWCTh9YP1X9MX" version="13.6.6" type="github">
+<mxfile modified="2020-09-03T05:09:28.701Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="kkACg_oiGu9wbr3MkinA" version="13.6.6" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -287,28 +287,40 @@
           <mxGeometry x="590" y="1355" width="490" height="205" as="geometry" />
         </mxCell>
         <mxCell id="o9lZUVFjSXX-9Ml6_j3k-1" value="Side-Channel&lt;br&gt;Analysis Core" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="280" y="1860" width="114" height="110" as="geometry" />
+          <mxGeometry x="298.25" y="1840" width="114" height="110" as="geometry" />
         </mxCell>
         <mxCell id="o9lZUVFjSXX-9Ml6_j3k-2" value="Deep&lt;br&gt;Learning" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="1860" width="114" height="110" as="geometry" />
+          <mxGeometry x="448.54" y="1840" width="114" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="o9lZUVFjSXX-9Ml6_j3k-3" value="Deep&lt;br&gt;Learning" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="1860" width="114" height="110" as="geometry" />
+        <mxCell id="o9lZUVFjSXX-9Ml6_j3k-3" value="DATA&lt;br&gt;Analysis" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="598.25" y="1840" width="114" height="110" as="geometry" />
         </mxCell>
         <mxCell id="o9lZUVFjSXX-9Ml6_j3k-4" value="KOSYAS SW Platform" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontStyle=1;fontSize=21;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="252.5" y="2010" width="667.5" height="100" as="geometry" />
+          <mxGeometry x="270.75" y="1990" width="597.5" height="100" as="geometry" />
         </mxCell>
         <mxCell id="o9lZUVFjSXX-9Ml6_j3k-5" value="API&amp;nbsp; GATEWAY" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=1;horizontal=0;fontStyle=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="130" y="1860" width="81.2" height="390" as="geometry" />
+          <mxGeometry x="148.25" y="1840" width="81.2" height="390" as="geometry" />
         </mxCell>
         <mxCell id="o9lZUVFjSXX-9Ml6_j3k-6" value="Side-Channel&lt;br&gt;Analysis Core" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="546" y="2140" width="114" height="110" as="geometry" />
+          <mxGeometry x="494.25" y="2120" width="114" height="110" as="geometry" />
         </mxCell>
         <mxCell id="o9lZUVFjSXX-9Ml6_j3k-7" value="Deep&lt;br&gt;Learning" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="676" y="2140" width="114" height="110" as="geometry" />
+          <mxGeometry x="624.25" y="2120" width="114" height="110" as="geometry" />
         </mxCell>
         <mxCell id="o9lZUVFjSXX-9Ml6_j3k-8" value="Deep&lt;br&gt;Learning" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="806" y="2140" width="114" height="110" as="geometry" />
+          <mxGeometry x="754.25" y="2120" width="114" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="o9lZUVFjSXX-9Ml6_j3k-9" value="API&amp;nbsp; GATEWAY" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=1;horizontal=0;fontStyle=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="904.4" y="1840" width="81.2" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="o9lZUVFjSXX-9Ml6_j3k-10" value="Module" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1;horizontal=0;fontColor=#0000CC;" vertex="1" parent="1">
+          <mxGeometry x="258.25" y="1890" width="40" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="o9lZUVFjSXX-9Ml6_j3k-14" value="Service" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1;horizontal=0;fontColor=#0000CC;" vertex="1" parent="1">
+          <mxGeometry x="454.25" y="2167.5" width="40" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="o9lZUVFjSXX-9Ml6_j3k-17" value="DATA&lt;br&gt;Analysis" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="751.25" y="1840" width="114" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
