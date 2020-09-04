@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-04T05:53:54.338Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="Lq9MNWLQnzGlAOTeC2kO" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-04T05:59:05.437Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="yiWdsADtp4GAOWikuJmv" version="13.6.6" type="github">
   <diagram name="Page-1" id="2c0d36ab-eaac-3732-788b-9136903baeff">
     <mxGraphModel dx="1673" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1654" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -580,10 +580,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VNOOyDUHC6UwMGlSPUmM-186" value="HTS" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="VNOOyDUHC6UwMGlSPUmM-186" value="Analysis" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
           <mxGeometry x="1210" y="635.5" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VNOOyDUHC6UwMGlSPUmM-187" value="CVS" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="VNOOyDUHC6UwMGlSPUmM-187" value="AI" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
           <mxGeometry x="1210" y="725.5" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VNOOyDUHC6UwMGlSPUmM-188" value="Client / Server" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
@@ -638,6 +638,18 @@
         </mxCell>
         <mxCell id="VNOOyDUHC6UwMGlSPUmM-199" value="Functions" style="rounded=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
           <mxGeometry x="1000" y="455.5" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VNOOyDUHC6UwMGlSPUmM-200" value="Modules" style="rounded=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+          <mxGeometry x="1010" y="985.5" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VNOOyDUHC6UwMGlSPUmM-201" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeWidth=2;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VNOOyDUHC6UwMGlSPUmM-199" target="VNOOyDUHC6UwMGlSPUmM-200">
+          <mxGeometry x="220" y="145.5" width="100" height="100" as="geometry">
+            <mxPoint x="1009.9999999999995" y="495.5" as="sourcePoint" />
+            <mxPoint x="1009.9999999999995" y="675.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="980" y="750" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
