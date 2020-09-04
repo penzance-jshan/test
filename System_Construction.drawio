@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-04T07:21:27.941Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="VHBc7d-qUcnnxme5H4gm" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-04T07:21:44.447Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="j26VtwJXrnydsBGVaLNt" version="13.6.6" type="github">
   <diagram name="Page-1" id="2c0d36ab-eaac-3732-788b-9136903baeff">
     <mxGraphModel dx="2031" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1654" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -991,8 +991,8 @@
         <mxCell id="VNOOyDUHC6UwMGlSPUmM-298" value="" style="line;strokeWidth=2;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="56.5" y="3615" width="2367.5" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="VNOOyDUHC6UwMGlSPUmM-299" value="[2] Directory Detail - Resource" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=23;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="84" y="3655" width="350" height="30" as="geometry" />
+        <mxCell id="VNOOyDUHC6UwMGlSPUmM-299" value="[3] Directory Detail - App" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=23;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="84" y="3655" width="280" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
