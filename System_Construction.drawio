@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-31T08:02:17.124Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="OkJHOwszStwV_H9KV-Qd" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-04T00:16:59.205Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="3rpa7I32R2hTH4JPy9Ry" version="13.6.6" type="github">
   <diagram name="Page-1" id="2c0d36ab-eaac-3732-788b-9136903baeff">
-    <mxGraphModel dx="2031" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -550,13 +550,13 @@
             <mxPoint x="77" y="135.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pixhOsrh7slj3E2B8Isp-123" value="Database Architecture" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=30;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="pixhOsrh7slj3E2B8Isp-123" value="Database Architecture" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=30;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="56.5" y="20" width="330" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pixhOsrh7slj3E2B8Isp-124" value="시험 분석 SW 플랫폼 데이터베이스 설계" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="pixhOsrh7slj3E2B8Isp-124" value="시험 분석 SW 플랫폼 데이터베이스 설계" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="56.5" y="65.5" width="300" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="pixhOsrh7slj3E2B8Isp-125" value="" style="line;strokeWidth=2;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="pixhOsrh7slj3E2B8Isp-125" value="" style="line;strokeWidth=2;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="52.5" y="95" width="1547.5" height="10" as="geometry" />
         </mxCell>
       </root>
