@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-04T05:53:44.563Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="OIVl_uWbrdzyK73JAqGQ" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-04T05:53:54.338Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="Lq9MNWLQnzGlAOTeC2kO" version="13.6.6" type="github">
   <diagram name="Page-1" id="2c0d36ab-eaac-3732-788b-9136903baeff">
     <mxGraphModel dx="1673" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1654" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -100,7 +100,7 @@
         <mxCell id="47" value="Data Collection" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="1650" y="725.5000000000001" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="48" value="SSI" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+        <mxCell id="48" value="SSI" style="rounded=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="1825" y="455.50000000000006" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="49" value="Programming" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
@@ -623,6 +623,21 @@
         </mxCell>
         <mxCell id="VNOOyDUHC6UwMGlSPUmM-194" value="DATA" style="rounded=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
           <mxGeometry x="425" y="905.5" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VNOOyDUHC6UwMGlSPUmM-195" value="Others" style="rounded=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+          <mxGeometry x="250" y="455.5" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VNOOyDUHC6UwMGlSPUmM-196" value="Properties" style="rounded=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+          <mxGeometry x="425" y="455.5" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VNOOyDUHC6UwMGlSPUmM-197" value="component" style="rounded=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+          <mxGeometry x="650" y="455.5" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VNOOyDUHC6UwMGlSPUmM-198" value="View" style="rounded=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+          <mxGeometry x="825" y="455.5" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VNOOyDUHC6UwMGlSPUmM-199" value="Functions" style="rounded=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+          <mxGeometry x="1000" y="455.5" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
