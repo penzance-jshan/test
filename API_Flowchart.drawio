@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-07T05:16:40.262Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="o_JHIspFK8WunQsOKTm-" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-07T05:20:24.226Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="zEYZ0pPEhKDzo9K_oT2F" version="13.6.6" type="github">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
     <mxGraphModel dx="1422" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -405,7 +405,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cZekhCaC1eHoIxvvLhRm-67" value="기능 수행 단계" style="shape=trapezoid;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;flipV=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="525" width="120" height="60" as="geometry" />
+          <mxGeometry x="780" y="525" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
