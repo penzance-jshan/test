@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-07T06:41:50.460Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="U8yBZM5wamJZ0jKX9wEW" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-07T06:44:03.219Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="xOTryb6fV4-wI-JhXf-t" version="13.6.6" type="github">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
-    <mxGraphModel dx="1422" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -168,7 +168,7 @@
         <mxCell id="cZekhCaC1eHoIxvvLhRm-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cZekhCaC1eHoIxvvLhRm-38" target="cZekhCaC1eHoIxvvLhRm-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cZekhCaC1eHoIxvvLhRm-38" value="화면 선택 단계" style="shape=trapezoid;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;flipV=1;" vertex="1" parent="1">
+        <mxCell id="cZekhCaC1eHoIxvvLhRm-38" value="기능 선택 및&lt;br&gt;기능 수행 단계" style="shape=trapezoid;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cZekhCaC1eHoIxvvLhRm-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cZekhCaC1eHoIxvvLhRm-41" target="cZekhCaC1eHoIxvvLhRm-37">
