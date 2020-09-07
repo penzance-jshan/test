@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-07T03:51:58.329Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="b-iJF4b4o2oYnJxGmn53" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-07T03:52:19.011Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="ViRQbjJ2IekqtmrUt3KP" version="13.6.6" type="github">
   <diagram name="Page-1" id="2c0d36ab-eaac-3732-788b-9136903baeff">
     <mxGraphModel dx="2844" dy="1588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1654" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -908,16 +908,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VNOOyDUHC6UwMGlSPUmM-292" value="Project Directory Construction" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=30;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="60.5" y="1780" width="450" height="40" as="geometry" />
+          <mxGeometry x="64.5" y="1790" width="450" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VNOOyDUHC6UwMGlSPUmM-293" value="시험 분석 SW 플랫폼 프로젝트 구성" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="60.5" y="1825.5" width="270" height="20" as="geometry" />
+          <mxGeometry x="64.5" y="1835.5" width="270" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VNOOyDUHC6UwMGlSPUmM-294" value="" style="line;strokeWidth=2;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="56.5" y="1855" width="2367.5" height="10" as="geometry" />
+          <mxGeometry x="60.5" y="1865" width="2367.5" height="10" as="geometry" />
         </mxCell>
         <mxCell id="VNOOyDUHC6UwMGlSPUmM-295" value="[2] Directory Detail - Resource" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=23;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="84" y="1895" width="350" height="30" as="geometry" />
+          <mxGeometry x="88" y="1905" width="350" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VNOOyDUHC6UwMGlSPUmM-296" value="Project Directory Construction" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=30;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="60.5" y="3540" width="450" height="40" as="geometry" />
