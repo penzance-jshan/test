@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-07T06:59:37.201Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="eICfshIHGGJdbMoBYUaX" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-07T06:59:45.888Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="Akq7XVVbCkWSzysSxwKb" version="13.6.6" type="github">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
     <mxGraphModel dx="981" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -216,7 +216,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cZekhCaC1eHoIxvvLhRm-53" value="결과 분석" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1015" y="340" width="70" height="40" as="geometry" />
+          <mxGeometry x="1010" y="340" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cZekhCaC1eHoIxvvLhRm-174" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#3B0C0C;strokeWidth=1;fontSize=8;" edge="1" parent="1" source="cZekhCaC1eHoIxvvLhRm-54" target="cZekhCaC1eHoIxvvLhRm-172">
           <mxGeometry relative="1" as="geometry" />
