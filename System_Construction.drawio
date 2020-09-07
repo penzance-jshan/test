@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-07T02:23:07.879Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="RU7EuVos-SWFedwb76cs" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-07T02:23:29.653Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="L-u1Eh77gdNY1MDDu1sX" version="13.6.6" type="github">
   <diagram name="Page-1" id="2c0d36ab-eaac-3732-788b-9136903baeff">
     <mxGraphModel dx="2844" dy="1588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1654" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -840,10 +840,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VNOOyDUHC6UwMGlSPUmM-278" value="" style="fillColor=#10739E;strokeColor=none;opacity=30;" parent="1" vertex="1">
-          <mxGeometry x="1035" y="2020" width="1165" height="870" as="geometry" />
+          <mxGeometry x="1200" y="2030" width="1165" height="870" as="geometry" />
         </mxCell>
         <mxCell id="VNOOyDUHC6UwMGlSPUmM-279" value="시험 분석 SW 플랫폼 프로젝트 구성&lt;br&gt;asdflasdf&lt;br&gt;asdf&lt;br&gt;asd&lt;br&gt;f&lt;br&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="1080" y="2060" width="270" height="100" as="geometry" />
+          <mxGeometry x="1230" y="2050" width="270" height="100" as="geometry" />
         </mxCell>
         <mxCell id="VNOOyDUHC6UwMGlSPUmM-280" value="Plugin" style="rounded=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="995" y="884.5" width="130" height="60" as="geometry" />
