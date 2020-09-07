@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2020-09-07T06:32:58.054Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="6arTHQa282fplUFHJbpq" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-07T06:34:27.598Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="jEyf-Pa13-s2ccVytqe8" version="13.6.6" type="github">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
     <mxGraphModel dx="1422" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="cZekhCaC1eHoIxvvLhRm-135" value="" style="fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=30;" vertex="1" parent="1">
-          <mxGeometry x="740" y="180" width="850" height="660" as="geometry" />
+          <mxGeometry x="740" y="180" width="850" height="770" as="geometry" />
         </mxCell>
         <mxCell id="cZekhCaC1eHoIxvvLhRm-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=8;strokeWidth=2;strokeColor=#FF3333;" edge="1" parent="1" source="cZekhCaC1eHoIxvvLhRm-32" target="cZekhCaC1eHoIxvvLhRm-131">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cZekhCaC1eHoIxvvLhRm-32" value="" style="fillColor=#F2931E;strokeColor=none;opacity=30;" vertex="1" parent="1">
-          <mxGeometry x="160" y="180" width="560" height="660" as="geometry" />
+          <mxGeometry x="160" y="180" width="560" height="770" as="geometry" />
         </mxCell>
         <mxCell id="60e70716793133e9-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cZekhCaC1eHoIxvvLhRm-26" target="60e70716793133e9-5" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -151,19 +151,19 @@
         <mxCell id="cZekhCaC1eHoIxvvLhRm-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cZekhCaC1eHoIxvvLhRm-35" target="cZekhCaC1eHoIxvvLhRm-38">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="730" y="810" />
+              <mxPoint x="730" y="860" />
               <mxPoint x="730" y="240" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="cZekhCaC1eHoIxvvLhRm-35" value="회사 소개 및 시스템 소개 기능에 집속 가능" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="530" y="790" width="120" height="40" as="geometry" />
+          <mxGeometry x="530" y="840" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cZekhCaC1eHoIxvvLhRm-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cZekhCaC1eHoIxvvLhRm-37" target="cZekhCaC1eHoIxvvLhRm-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cZekhCaC1eHoIxvvLhRm-37" value="회사 소개 및 시스템 소개 기능에 집속 가능" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="370" y="790" width="120" height="40" as="geometry" />
+          <mxGeometry x="370" y="840" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cZekhCaC1eHoIxvvLhRm-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cZekhCaC1eHoIxvvLhRm-38" target="cZekhCaC1eHoIxvvLhRm-51">
           <mxGeometry relative="1" as="geometry" />
@@ -175,7 +175,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cZekhCaC1eHoIxvvLhRm-41" value="회원 관리 및 모든 시험 기능 접속 가능" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="210" y="790" width="120" height="40" as="geometry" />
+          <mxGeometry x="210" y="840" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cZekhCaC1eHoIxvvLhRm-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cZekhCaC1eHoIxvvLhRm-47" target="cZekhCaC1eHoIxvvLhRm-68">
           <mxGeometry relative="1" as="geometry" />
@@ -288,7 +288,7 @@
         <mxCell id="cZekhCaC1eHoIxvvLhRm-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="cZekhCaC1eHoIxvvLhRm-70" target="cZekhCaC1eHoIxvvLhRm-53">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1020" y="585" />
+              <mxPoint x="1020" y="595" />
               <mxPoint x="1020" y="370" />
             </Array>
           </mxGeometry>
@@ -314,31 +314,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cZekhCaC1eHoIxvvLhRm-76" value="Traing" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="430" width="80" height="40" as="geometry" />
+          <mxGeometry x="1240" y="460" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cZekhCaC1eHoIxvvLhRm-95" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cZekhCaC1eHoIxvvLhRm-77" target="cZekhCaC1eHoIxvvLhRm-78">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cZekhCaC1eHoIxvvLhRm-124" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cZekhCaC1eHoIxvvLhRm-77" target="cZekhCaC1eHoIxvvLhRm-125">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1065" y="765" as="targetPoint" />
+            <mxPoint x="1145" y="795" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1045" y="690" />
-              <mxPoint x="1045" y="735" />
-              <mxPoint x="1013" y="735" />
+              <mxPoint x="1125" y="720" />
+              <mxPoint x="1125" y="765" />
+              <mxPoint x="1093" y="765" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="cZekhCaC1eHoIxvvLhRm-77" value="출력?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1075" y="660" width="80" height="60" as="geometry" />
+          <mxGeometry x="1155" y="690" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cZekhCaC1eHoIxvvLhRm-85" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cZekhCaC1eHoIxvvLhRm-78" target="cZekhCaC1eHoIxvvLhRm-127">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1145" y="780" as="targetPoint" />
+            <mxPoint x="1225" y="810" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1235" y="720" />
-              <mxPoint x="1235" y="735" />
-              <mxPoint x="1145" y="735" />
+              <mxPoint x="1315" y="750" />
+              <mxPoint x="1315" y="765" />
+              <mxPoint x="1225" y="765" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -346,10 +346,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cZekhCaC1eHoIxvvLhRm-78" value="프린트" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="660" width="80" height="60" as="geometry" />
+          <mxGeometry x="1290" y="690" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cZekhCaC1eHoIxvvLhRm-87" value="레포트 생성" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="780" width="100" height="30" as="geometry" />
+          <mxGeometry x="1290" y="810" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cZekhCaC1eHoIxvvLhRm-90" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cZekhCaC1eHoIxvvLhRm-89" target="cZekhCaC1eHoIxvvLhRm-76">
           <mxGeometry relative="1" as="geometry" />
@@ -358,13 +358,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cZekhCaC1eHoIxvvLhRm-89" value="AI 사용 여부" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="420" width="80" height="60" as="geometry" />
+          <mxGeometry x="1120" y="450" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cZekhCaC1eHoIxvvLhRm-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cZekhCaC1eHoIxvvLhRm-92" target="cZekhCaC1eHoIxvvLhRm-77">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cZekhCaC1eHoIxvvLhRm-92" value="결과 도출" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="575" width="80" height="40" as="geometry" />
+          <mxGeometry x="1240" y="605" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cZekhCaC1eHoIxvvLhRm-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cZekhCaC1eHoIxvvLhRm-98" target="cZekhCaC1eHoIxvvLhRm-26">
           <mxGeometry relative="1" as="geometry" />
@@ -398,8 +398,9 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="140" y="460" />
-              <mxPoint x="140" y="850" />
-              <mxPoint x="590" y="850" />
+              <mxPoint x="140" y="910" />
+              <mxPoint x="590" y="910" />
+              <mxPoint x="590" y="880" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -410,8 +411,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="150" y="520" />
-              <mxPoint x="150" y="860" />
-              <mxPoint x="590" y="860" />
+              <mxPoint x="150" y="900" />
+              <mxPoint x="590" y="900" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -469,10 +470,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cZekhCaC1eHoIxvvLhRm-125" value="결과 데이터 저장" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="980" y="780" width="95" height="30" as="geometry" />
+          <mxGeometry x="1060" y="810" width="95" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cZekhCaC1eHoIxvvLhRm-127" value="화면 출력" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;shadow=1;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="780" width="90" height="30" as="geometry" />
+          <mxGeometry x="1180" y="810" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cZekhCaC1eHoIxvvLhRm-129" value="[접속 및 로그인]" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=23;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="325" y="140" width="180" height="30" as="geometry" />
@@ -484,10 +485,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cZekhCaC1eHoIxvvLhRm-131" value="네트워크 장애,&lt;br&gt;화면 종료 또는 &lt;br&gt;로그 아웃" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1390" y="860" width="100" height="60" as="geometry" />
+          <mxGeometry x="1390" y="970" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cZekhCaC1eHoIxvvLhRm-132" value="End" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;rounded=0;shadow=1;labelBackgroundColor=none;fontFamily=Verdana;fontSize=8;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="1530" y="870" width="60" height="40" as="geometry" />
+          <mxGeometry x="1530" y="980" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cZekhCaC1eHoIxvvLhRm-134" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cZekhCaC1eHoIxvvLhRm-51" target="cZekhCaC1eHoIxvvLhRm-116">
           <mxGeometry relative="1" as="geometry">
@@ -499,11 +500,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cZekhCaC1eHoIxvvLhRm-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=8;strokeWidth=2;strokeColor=#FF3333;" edge="1" parent="1" source="cZekhCaC1eHoIxvvLhRm-135">
+        <mxCell id="cZekhCaC1eHoIxvvLhRm-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=8;strokeWidth=2;strokeColor=#FF3333;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cZekhCaC1eHoIxvvLhRm-135" target="cZekhCaC1eHoIxvvLhRm-131">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1390" y="890" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1165" y="890" />
+              <mxPoint x="1165" y="1000" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -511,7 +512,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cZekhCaC1eHoIxvvLhRm-138" value="Model 생성" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="500" width="80" height="40" as="geometry" />
+          <mxGeometry x="1240" y="530" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
