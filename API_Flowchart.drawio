@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-07T07:00:52.314Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="6nOqgV-2n1TqBf-Vm6Bg" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-07T07:02:09.363Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="oglMnxyjZpVe74Dg-63C" version="13.6.6" type="github">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
     <mxGraphModel dx="1673" dy="876" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -596,7 +596,7 @@
         <mxCell id="cZekhCaC1eHoIxvvLhRm-164" value="화면 관리" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="750" y="700" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="cZekhCaC1eHoIxvvLhRm-165" value="유지 보수" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
+        <mxCell id="cZekhCaC1eHoIxvvLhRm-165" value="업데이트/패치" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="750" y="660" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cZekhCaC1eHoIxvvLhRm-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cZekhCaC1eHoIxvvLhRm-47" target="cZekhCaC1eHoIxvvLhRm-159">
@@ -725,7 +725,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cZekhCaC1eHoIxvvLhRm-195" value="[프로그램 종료]" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=23;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="850" y="1000" width="180" height="30" as="geometry" />
+          <mxGeometry x="790" y="1010" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
