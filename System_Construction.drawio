@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-09T07:01:38.360Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="QK4cvI0sH6YzcXg03NVN" version="13.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-09T07:03:01.336Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="dyKS2mCgYt1Eh8OZ65_3" version="13.6.8" type="github">
   <diagram name="Page-1" id="2c0d36ab-eaac-3732-788b-9136903baeff">
     <mxGraphModel dx="2370" dy="1323" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1654" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1999,7 +1999,7 @@
         <mxCell id="u79rwMeshpHsMi6sYovp-272" value="4" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1690" y="4659.08" width="113.33" height="40.92" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-273" value="프로그램 컨트롤러 관련 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-273" value="REST API 컨트롤러 관련 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1820" y="4659.08" width="520" height="44.05" as="geometry" />
         </mxCell>
         <mxCell id="u79rwMeshpHsMi6sYovp-274" value="4" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
@@ -2014,19 +2014,19 @@
         <mxCell id="u79rwMeshpHsMi6sYovp-277" value="4" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1689.997142857143" y="4719.995682819384" width="113.33333333333334" height="44.05286343612335" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-278" value="프로그램 동작 모듈들을 모아놓은 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-278" value="프로그램 동작 모듈" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1820" y="4720" width="520" height="44.05" as="geometry" />
         </mxCell>
         <mxCell id="u79rwMeshpHsMi6sYovp-279" value="Analysis" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" vertex="1" parent="1">
           <mxGeometry x="1460" y="4780.252378854625" width="29.142857142857146" height="35.242290748898675" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-280" value="분석 관려 모듈들을 모아놓은 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-280" value="보안 분석 관려 모듈들을 모아놓은 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1820" y="4782.68" width="520" height="41.63" as="geometry" />
         </mxCell>
         <mxCell id="u79rwMeshpHsMi6sYovp-281" value="AI" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" vertex="1" parent="1">
           <mxGeometry x="1460" y="4846.33167400881" width="29.142857142857146" height="35.242290748898675" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-282" value="인공지능 관련 모듈들을 모아놓은 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-282" value="분석에 사용되는 인공지능 모듈 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1820" y="4846.34" width="520" height="44.05" as="geometry" />
         </mxCell>
         <mxCell id="u79rwMeshpHsMi6sYovp-283" value="5" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
@@ -2041,7 +2041,7 @@
         <mxCell id="u79rwMeshpHsMi6sYovp-286" value="5" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1690" y="4910" width="113.33" height="40.92" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-287" value="서비스 관련 모듈들을 모아놓은 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-287" value="고객 및 공유 서비스 관련 모듈들을 모아놓은 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1820" y="4910" width="520" height="44.05" as="geometry" />
         </mxCell>
         <mxCell id="u79rwMeshpHsMi6sYovp-288" value="Board" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" vertex="1" parent="1">
@@ -2050,7 +2050,7 @@
         <mxCell id="u79rwMeshpHsMi6sYovp-289" value="5" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1689.997142857143" y="4970.915682819384" width="113.33333333333334" height="44.05286343612335" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-290" value="프로그램 내부 게시판 모듈들을 모아놓은 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-290" value="프로그램 외부/내부 게시판 모듈들을 모아놓은 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1820" y="4970.92" width="520" height="44.05" as="geometry" />
         </mxCell>
         <mxCell id="u79rwMeshpHsMi6sYovp-291" value="Management" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" vertex="1" parent="1">
