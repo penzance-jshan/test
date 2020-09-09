@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-09T07:04:02.264Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="E7Cjkgk3kYoTNYBb1jPY" version="13.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-09T07:05:12.379Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="vR_ZJB3m9BVpawfietaK" version="13.6.8" type="github">
   <diagram name="Page-1" id="2c0d36ab-eaac-3732-788b-9136903baeff">
     <mxGraphModel dx="2370" dy="1323" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1654" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1858,13 +1858,13 @@
         <mxCell id="u79rwMeshpHsMi6sYovp-225" value="AI" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" vertex="1" parent="1">
           <mxGeometry x="1420" y="3021.1723788546255" width="29.142857142857146" height="35.242290748898675" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-226" value="인공지능 property 들을 모아놓은 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-226" value="인공지능 parameter property 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1830" y="3021.17" width="520" height="41.63" as="geometry" />
         </mxCell>
         <mxCell id="u79rwMeshpHsMi6sYovp-227" value="DATA" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" vertex="1" parent="1">
           <mxGeometry x="1420" y="3087.251674008811" width="29.142857142857146" height="35.242290748898675" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-228" value="프로그램 데이터들을 관리하는 property 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-228" value="생성 데이터 및 분석 데이터들을 관리하는 property 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1830" y="3084.83" width="520" height="44.05" as="geometry" />
         </mxCell>
         <mxCell id="u79rwMeshpHsMi6sYovp-229" value="4" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
