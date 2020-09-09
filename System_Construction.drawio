@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-09T07:00:19.143Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="OFn7is6-SoqS_GHC7gmt" version="13.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-09T07:01:02.178Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="XgyVMBSuqvWYzYrq1svF" version="13.6.8" type="github">
   <diagram name="Page-1" id="2c0d36ab-eaac-3732-788b-9136903baeff">
     <mxGraphModel dx="2370" dy="1323" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1654" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1903,7 +1903,7 @@
         <mxCell id="u79rwMeshpHsMi6sYovp-240" value="UI" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" vertex="1" parent="1">
           <mxGeometry x="1410" y="4013.651674008811" width="29.142857142857146" height="35.242290748898675" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-241" value="UI 컴퍼넌트" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-241" value="기본 설정 UI 컴퍼넌트" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1820" y="4013.66" width="520" height="44.05" as="geometry" />
         </mxCell>
         <mxCell id="u79rwMeshpHsMi6sYovp-242" value="Logger" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" vertex="1" parent="1">
@@ -1912,7 +1912,7 @@
         <mxCell id="u79rwMeshpHsMi6sYovp-243" value="4" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1689.997142857143" y="4079.7356828193833" width="113.33333333333334" height="44.05286343612335" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-244" value="시스템 로그 컴퍼넌트" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-244" value="시스템 로그 기록을 나타내는 컴퍼넌트" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1820" y="4079.74" width="520" height="44.05" as="geometry" />
         </mxCell>
         <mxCell id="u79rwMeshpHsMi6sYovp-245" value="" style="shape=line;strokeWidth=2;html=1;strokeColor=#DFE1E5;resizeWidth=1;fontSize=20;fontStyle=1;" vertex="1" parent="1">
@@ -1930,7 +1930,7 @@
         <mxCell id="u79rwMeshpHsMi6sYovp-249" value="Reports" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" vertex="1" parent="1">
           <mxGeometry x="1410" y="4139.992378854626" width="29.142857142857146" height="35.242290748898675" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-250" value="보고서 컴퍼넌트" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-250" value="출력 포맷을 설정한 컴퍼넌트" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1820" y="4142.42" width="520" height="41.63" as="geometry" />
         </mxCell>
         <mxCell id="u79rwMeshpHsMi6sYovp-251" value="Libs" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" vertex="1" parent="1">
