@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-09T06:56:18.438Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="4n1mwJvo2qLqi1g7vd0k" version="13.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-09T06:56:52.165Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="RWyte4Aw-_mGE0TET3i4" version="13.6.8" type="github">
   <diagram name="Page-1" id="2c0d36ab-eaac-3732-788b-9136903baeff">
     <mxGraphModel dx="2370" dy="1323" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1654" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -2182,7 +2182,7 @@
         <mxCell id="u79rwMeshpHsMi6sYovp-333" value="Chart/Graph" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" vertex="1" parent="1">
           <mxGeometry x="291.25" y="6299.262378854625" width="29.142857142857146" height="35.242290748898675" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-334" value="차트 / 그래프 관련 파일들을 모아놓은 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-334" value="차트 / 그래프 관련 기본 중복 설정 파일들을 모아놓은 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="701.25" y="6299.34" width="520" height="41.63" as="geometry" />
         </mxCell>
         <mxCell id="u79rwMeshpHsMi6sYovp-335" value="Term/Conditions" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" vertex="1" parent="1">
