@@ -1,4 +1,4 @@
-<mxfile modified="2020-09-14T01:21:48.825Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="-1AdomaKNy2anNEJVdlM" version="13.6.9" type="github">
+<mxfile modified="2020-09-14T01:23:17.661Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="f0hQNXs0e50miYvjbGap" version="13.6.9" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -385,7 +385,7 @@
         <mxCell id="BgYx47iS89JeFPh7B9zp-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAEDED;fontSize=22;fontColor=#FFFFFF;strokeColor=none;labelBackgroundColor=none;shadow=0;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="2280" width="990" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="BgYx47iS89JeFPh7B9zp-7" value="KOSYAS 시험 분석 플랫폼은 API GATEWAY를 통하여 각 모듈 및 서비스 기능들이 실행/확장되는 형태&lt;br&gt;&lt;br&gt;API GATEWAY을 통하여 진행되는 방식의 마이크로서비스 방법으로 설계&lt;br&gt;&lt;br&gt;모듈의 연계성 및 확장을 위하여 분석 코어 부분은 단계 별로 실행이 가능하도록 분리 설계&lt;br&gt;&lt;br&gt;Service의 Maintenance를 통하여 각 모듈 및 서비스의 기능을 확장/축소/관리를 진행&lt;br&gt;&lt;br&gt;Service는 Maintenance 이외에서도 플랫폼의 기능들을 설명하는&amp;nbsp;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="BgYx47iS89JeFPh7B9zp-7" value="KOSYAS 시험 분석 플랫폼은 API GATEWAY를 통하여 각 모듈 및 서비스 기능들이 실행/확장되는 형태&lt;br&gt;&lt;br&gt;API GATEWAY을 통하여 진행되는 방식의 마이크로서비스 방법으로 설계&lt;br&gt;&lt;br&gt;모듈의 연계성 및 확장을 위하여 분석 코어 부분은 단계 별로 실행이 가능하도록 분리 설계&lt;br&gt;&lt;br&gt;Service의 Maintenance를 통하여 각 모듈 및 서비스의 기능을 확장/축소/관리를 진행&lt;br&gt;&lt;br&gt;Service는 Maintenance 이외에서도 플랫폼의 기능 및 사용법을 소개하고, 다운로드 및 질문들을 공유하는 다양한 기능들을 포함&amp;nbsp;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="110" y="2290" width="930" height="150" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-8" value="" style="shape=flexArrow;endArrow=classic;html=1;width=22;endSize=5.33;fillColor=#d80073;strokeColor=#A50040;" edge="1" parent="1">
