@@ -1,4 +1,4 @@
-<mxfile modified="2020-09-14T02:59:29.509Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="sZykNeOjHeikBy5uDDWu" version="13.6.9" type="github">
+<mxfile modified="2020-09-14T03:01:35.487Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="p2qEgva3kKzKshPF_5hO" version="13.6.9" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -729,143 +729,116 @@
         <mxCell id="BgYx47iS89JeFPh7B9zp-255" style="swimlane;connectable=0;startSize=0;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-252">
           <mxGeometry x="550" width="170" height="73" as="geometry" />
         </mxCell>
-        <mxCell id="BgYx47iS89JeFPh7B9zp-319" value="제품 유형" style="shape=table;html=1;whiteSpace=wrap;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;rounded=1;glass=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="92.5" y="3550" width="297.5" height="520" as="geometry" />
+        <mxCell id="BgYx47iS89JeFPh7B9zp-319" value="제품 유형" style="shape=table;html=1;whiteSpace=wrap;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=0;rowLines=0;fontStyle=1;align=center;rounded=1;glass=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="80" y="3550" width="320" height="540" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-320" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-319">
-          <mxGeometry y="30" width="297.5" height="30" as="geometry" />
+          <mxGeometry y="30" width="320" height="43" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-322" value="침입차단시스템(FW)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;overflow=hidden;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-320">
-          <mxGeometry width="167" height="30" as="geometry" />
+          <mxGeometry width="174" height="43" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-374" value="호스트 자료 우출 방지" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;overflow=hidden;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-320">
-          <mxGeometry x="167" width="131" height="30" as="geometry" />
+          <mxGeometry x="174" width="146" height="43" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-371" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-319">
-          <mxGeometry y="60" width="297.5" height="30" as="geometry" />
+          <mxGeometry y="73" width="320" height="42" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-373" value="침입방지시스템(IPS)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;overflow=hidden;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-371">
-          <mxGeometry width="167" height="30" as="geometry" />
+          <mxGeometry width="174" height="42" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-375" value="디지털 복합기" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;overflow=hidden;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-371">
-          <mxGeometry x="167" width="131" height="30" as="geometry" />
+          <mxGeometry x="174" width="146" height="42" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-368" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-319">
-          <mxGeometry y="90" width="297.5" height="30" as="geometry" />
+          <mxGeometry y="115" width="320" height="43" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-370" value="가상사설망 제품" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;overflow=hidden;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-368">
-          <mxGeometry width="167" height="30" as="geometry" />
+          <mxGeometry width="174" height="43" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-376" value="스팸 메일 차단 시스템" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;overflow=hidden;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-368">
-          <mxGeometry x="167" width="131" height="30" as="geometry" />
+          <mxGeometry x="174" width="146" height="43" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-365" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-319">
-          <mxGeometry y="120" width="297.5" height="30" as="geometry" />
+          <mxGeometry y="158" width="320" height="42" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-367" value="통합보안관리제품" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;overflow=hidden;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-365">
-          <mxGeometry width="167" height="30" as="geometry" />
+          <mxGeometry width="174" height="42" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-377" value="패치 관리 시스템" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;overflow=hidden;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-365">
-          <mxGeometry x="167" width="131" height="30" as="geometry" />
+          <mxGeometry x="174" width="146" height="42" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-362" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-319">
-          <mxGeometry y="150" width="297.5" height="30" as="geometry" />
+          <mxGeometry y="200" width="320" height="43" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-364" value="웹 방화벽" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;overflow=hidden;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-362">
-          <mxGeometry width="167" height="30" as="geometry" />
+          <mxGeometry width="174" height="43" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-378" value="망간자료 전송 제품" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;overflow=hidden;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-362">
-          <mxGeometry x="167" width="131" height="30" as="geometry" />
+          <mxGeometry x="174" width="146" height="43" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-359" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-319">
-          <mxGeometry y="180" width="297.5" height="30" as="geometry" />
+          <mxGeometry y="243" width="320" height="42" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-361" value="운영체제 접근 통제 제품" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;overflow=hidden;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-359">
-          <mxGeometry width="167" height="30" as="geometry" />
+          <mxGeometry width="174" height="42" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-379" value="DDoS 대응 장비" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;overflow=hidden;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-359">
-          <mxGeometry x="167" width="131" height="30" as="geometry" />
+          <mxGeometry x="174" width="146" height="42" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-356" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-319">
-          <mxGeometry y="210" width="297.5" height="30" as="geometry" />
+          <mxGeometry y="285" width="320" height="43" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-358" value="DB 접근 통제 제품" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;overflow=hidden;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-356">
-          <mxGeometry width="167" height="30" as="geometry" />
+          <mxGeometry width="174" height="43" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-380" value="안티바이러스 제품" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;overflow=hidden;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-356">
-          <mxGeometry x="167" width="131" height="30" as="geometry" />
+          <mxGeometry x="174" width="146" height="43" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-353" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-319">
-          <mxGeometry y="240" width="297.5" height="30" as="geometry" />
+          <mxGeometry y="328" width="320" height="42" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-355" value="네트워크 접근 통제 제품" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;overflow=hidden;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-353">
-          <mxGeometry width="167" height="30" as="geometry" />
+          <mxGeometry width="174" height="42" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-381" value="스마트 카드" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;overflow=hidden;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-353">
-          <mxGeometry x="167" width="131" height="30" as="geometry" />
+          <mxGeometry x="174" width="146" height="42" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-350" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-319">
-          <mxGeometry y="270" width="297.5" height="30" as="geometry" />
+          <mxGeometry y="370" width="320" height="43" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-352" value="인터넷전화 보안 제품" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;overflow=hidden;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-350">
-          <mxGeometry width="167" height="30" as="geometry" />
+          <mxGeometry width="174" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="BgYx47iS89JeFPh7B9zp-382" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;overflow=hidden;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-350">
-          <mxGeometry x="167" width="131" height="30" as="geometry" />
+        <mxCell id="BgYx47iS89JeFPh7B9zp-382" value="&lt;span&gt;무선랜 인증 제품&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;overflow=hidden;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-350">
+          <mxGeometry x="174" width="146" height="43" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-347" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-319">
-          <mxGeometry y="300" width="297.5" height="30" as="geometry" />
+          <mxGeometry y="413" width="320" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="BgYx47iS89JeFPh7B9zp-349" value="무선침입방지시스템" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;overflow=hidden;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-347">
-          <mxGeometry width="167" height="30" as="geometry" />
+        <mxCell id="BgYx47iS89JeFPh7B9zp-349" value="&lt;span&gt;소스코드 보안약점 분석 도구&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;overflow=hidden;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-347">
+          <mxGeometry width="174" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="BgYx47iS89JeFPh7B9zp-383" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;overflow=hidden;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-347">
-          <mxGeometry x="167" width="131" height="30" as="geometry" />
+        <mxCell id="BgYx47iS89JeFPh7B9zp-383" value="&lt;span&gt;무선침입방지시스템&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;overflow=hidden;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-347">
+          <mxGeometry x="174" width="146" height="42" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-344" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-319">
-          <mxGeometry y="330" width="297.5" height="30" as="geometry" />
+          <mxGeometry y="455" width="320" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="BgYx47iS89JeFPh7B9zp-346" value="무선랜 인증 제품" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;overflow=hidden;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-344">
-          <mxGeometry width="167" height="30" as="geometry" />
+        <mxCell id="BgYx47iS89JeFPh7B9zp-346" value="&lt;span&gt;네트워크 자료유출방지 제품&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;overflow=hidden;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-344">
+          <mxGeometry width="174" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="BgYx47iS89JeFPh7B9zp-384" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;overflow=hidden;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-344">
-          <mxGeometry x="167" width="131" height="30" as="geometry" />
+        <mxCell id="BgYx47iS89JeFPh7B9zp-384" value="&lt;span&gt;가상화 제품(Hypervisor)&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;overflow=hidden;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-344">
+          <mxGeometry x="174" width="146" height="43" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-341" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-319">
-          <mxGeometry y="360" width="297.5" height="30" as="geometry" />
+          <mxGeometry y="498" width="320" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="BgYx47iS89JeFPh7B9zp-343" value="가상화 제품(Hypervisor)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;overflow=hidden;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-341">
-          <mxGeometry width="167" height="30" as="geometry" />
+        <mxCell id="BgYx47iS89JeFPh7B9zp-343" value="&lt;span&gt;스마트폰 보안 관리 제품&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;overflow=hidden;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-341">
+          <mxGeometry width="174" height="42" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-385" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;overflow=hidden;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-341">
-          <mxGeometry x="167" width="131" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BgYx47iS89JeFPh7B9zp-338" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-319">
-          <mxGeometry y="390" width="297.5" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BgYx47iS89JeFPh7B9zp-340" value="네트워크 자료유출방지 제품" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;overflow=hidden;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-338">
-          <mxGeometry width="167" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BgYx47iS89JeFPh7B9zp-386" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;overflow=hidden;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-338">
-          <mxGeometry x="167" width="131" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BgYx47iS89JeFPh7B9zp-335" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-319">
-          <mxGeometry y="420" width="297.5" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BgYx47iS89JeFPh7B9zp-337" value="스마트폰 보안 관리 제품" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;overflow=hidden;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-335">
-          <mxGeometry width="167" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BgYx47iS89JeFPh7B9zp-387" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;overflow=hidden;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-335">
-          <mxGeometry x="167" width="131" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BgYx47iS89JeFPh7B9zp-332" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-319">
-          <mxGeometry y="450" width="297.5" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BgYx47iS89JeFPh7B9zp-334" value="소스코드 보안약점 분석 도구" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;overflow=hidden;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-332">
-          <mxGeometry width="167" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BgYx47iS89JeFPh7B9zp-388" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;overflow=hidden;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-332">
-          <mxGeometry x="167" width="131" height="30" as="geometry" />
+          <mxGeometry x="174" width="146" height="42" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-68" value="[Layer 6 &amp;amp; 7] 공유 플랫폼 및 기타 서비스" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="79.99999999999999" y="5020" width="310" height="20" as="geometry" />
