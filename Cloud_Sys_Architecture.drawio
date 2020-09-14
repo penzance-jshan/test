@@ -1,4 +1,4 @@
-<mxfile modified="2020-09-14T03:01:35.487Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="p2qEgva3kKzKshPF_5hO" version="13.6.9" type="github">
+<mxfile modified="2020-09-14T03:03:01.182Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="eQMLTiHyZ3qzZEdTMyI5" version="13.6.9" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -729,7 +729,7 @@
         <mxCell id="BgYx47iS89JeFPh7B9zp-255" style="swimlane;connectable=0;startSize=0;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-252">
           <mxGeometry x="550" width="170" height="73" as="geometry" />
         </mxCell>
-        <mxCell id="BgYx47iS89JeFPh7B9zp-319" value="제품 유형" style="shape=table;html=1;whiteSpace=wrap;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=0;rowLines=0;fontStyle=1;align=center;rounded=1;glass=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="BgYx47iS89JeFPh7B9zp-319" value="제품 유형" style="shape=table;html=1;whiteSpace=wrap;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=0;rowLines=0;fontStyle=1;align=center;rounded=1;glass=0;fillColor=#fff2cc;strokeColor=#d6b656;columnLines=1;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="3550" width="320" height="540" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-320" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-319">
@@ -801,7 +801,7 @@
         <mxCell id="BgYx47iS89JeFPh7B9zp-355" value="네트워크 접근 통제 제품" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;overflow=hidden;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-353">
           <mxGeometry width="174" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="BgYx47iS89JeFPh7B9zp-381" value="스마트 카드" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;overflow=hidden;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-353">
+        <mxCell id="BgYx47iS89JeFPh7B9zp-381" value="스마트 카드" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;overflow=hidden;allowArrows=1;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-353">
           <mxGeometry x="174" width="146" height="42" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-350" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-319">
