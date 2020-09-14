@@ -1,4 +1,4 @@
-<mxfile modified="2020-09-14T04:51:59.995Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="JsgbJcqGnLJ4O4XydaPJ" version="13.6.9" type="github">
+<mxfile modified="2020-09-14T05:00:40.970Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="BJwes91bDT-rT6ncSgnV" version="13.6.9" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1050,9 +1050,6 @@
         <mxCell id="BgYx47iS89JeFPh7B9zp-564" value="공지 사항" style="strokeColor=none;fillColor=none;fontSize=12;align=left;html=1;rounded=1;glass=0;fontStyle=1;fontColor=#2E2536;" vertex="1" parent="1">
           <mxGeometry x="680" y="5276" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="BgYx47iS89JeFPh7B9zp-565" value="Main Branch" style="strokeColor=none;fillColor=#EDEEEF;fontSize=11;fontColor=#596780;rounded=1;html=1;glass=0;align=center;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1052.8" y="5278" width="65" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-566" value="포털 사용에 대한 공지" style="strokeColor=none;fillColor=none;fontSize=12;align=left;html=1;rounded=1;glass=0;fontStyle=1;fontColor=#2E2536;" vertex="1" parent="1">
           <mxGeometry x="760" y="5276" width="50" height="20" as="geometry" />
         </mxCell>
@@ -1062,7 +1059,7 @@
         <mxCell id="BgYx47iS89JeFPh7B9zp-576" value="개별 기능 및 시험 장비 사용에 대한 설명" style="strokeColor=none;fillColor=none;fontSize=12;align=left;html=1;rounded=1;glass=0;fontStyle=1;fontColor=#2E2536;" vertex="1" parent="1">
           <mxGeometry x="760" y="5306" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="BgYx47iS89JeFPh7B9zp-578" value="승인된 사용자" style="strokeColor=none;fillColor=#CCE0FF;fontSize=11;fontColor=#3384FF;rounded=1;html=1;align=center;fontStyle=1;glass=0;" vertex="1" parent="1">
+        <mxCell id="BgYx47iS89JeFPh7B9zp-578" value="승인된 사용자" style="strokeColor=#6c8ebf;fillColor=#dae8fc;fontSize=11;rounded=1;html=1;align=center;fontStyle=1;glass=0;gradientColor=#7ea6e0;" vertex="1" parent="1">
           <mxGeometry x="1004.99" y="5306" width="81" height="20" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-580" value="Q &amp;amp; A" style="strokeColor=none;fillColor=none;fontSize=12;align=left;html=1;rounded=1;glass=0;fontStyle=1;fontColor=#2E2536;" vertex="1" parent="1">
@@ -1080,13 +1077,13 @@
         <mxCell id="BgYx47iS89JeFPh7B9zp-604" value="" style="shape=line;strokeWidth=2;html=1;strokeColor=#DFE1E5;resizeWidth=1;rounded=1;glass=0;align=center;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="680" y="5395" width="410" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="BgYx47iS89JeFPh7B9zp-609" value="전체" style="strokeColor=#82b366;fillColor=#d5e8d4;fontSize=11;rounded=1;html=1;align=center;fontStyle=1;glass=0;" vertex="1" parent="1">
+        <mxCell id="BgYx47iS89JeFPh7B9zp-609" value="전체" style="strokeColor=#d79b00;fillColor=#ffcd28;fontSize=11;rounded=1;html=1;align=center;fontStyle=1;glass=0;gradientColor=#ffa500;" vertex="1" parent="1">
           <mxGeometry x="1004.99" y="5278" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="BgYx47iS89JeFPh7B9zp-611" value="전체" style="strokeColor=#82b366;fillColor=#d5e8d4;fontSize=11;rounded=1;html=1;align=center;fontStyle=1;glass=0;" vertex="1" parent="1">
+        <mxCell id="BgYx47iS89JeFPh7B9zp-611" value="전체" style="strokeColor=#d79b00;fillColor=#ffcd28;fontSize=11;rounded=1;html=1;align=center;fontStyle=1;glass=0;gradientColor=#ffa500;" vertex="1" parent="1">
           <mxGeometry x="1004.99" y="5335.5" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="BgYx47iS89JeFPh7B9zp-612" value="승인된 사용자" style="strokeColor=none;fillColor=#CCE0FF;fontSize=11;fontColor=#3384FF;rounded=1;html=1;align=center;fontStyle=1;glass=0;" vertex="1" parent="1">
+        <mxCell id="BgYx47iS89JeFPh7B9zp-612" value="승인된 사용자" style="strokeColor=#6c8ebf;fillColor=#dae8fc;fontSize=11;rounded=1;html=1;align=center;fontStyle=1;glass=0;gradientColor=#7ea6e0;" vertex="1" parent="1">
           <mxGeometry x="1005.41" y="5365.5" width="81" height="20" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-614" value="" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;fontSize=14;dashed=0;fontStyle=0;align=center;verticalAlign=top;strokeColor=#d6b656;spacingLeft=0;labelPosition=center;verticalLabelPosition=bottom;rounded=1;gradientColor=#ffd966;" vertex="1" parent="1">
@@ -1116,7 +1113,7 @@
         <mxCell id="BgYx47iS89JeFPh7B9zp-623" value="시험을 진행하였던 장비 리스트" style="strokeColor=none;fillColor=none;fontSize=12;align=left;html=1;rounded=1;glass=0;fontStyle=1;fontColor=#2E2536;" vertex="1" parent="1">
           <mxGeometry x="764" y="5566" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="BgYx47iS89JeFPh7B9zp-624" value="승인된 사용자" style="strokeColor=none;fillColor=#CCE0FF;fontSize=11;fontColor=#3384FF;rounded=1;html=1;align=center;fontStyle=1;glass=0;" vertex="1" parent="1">
+        <mxCell id="BgYx47iS89JeFPh7B9zp-624" value="승인된 사용자" style="strokeColor=#6c8ebf;fillColor=#dae8fc;fontSize=11;rounded=1;html=1;align=center;fontStyle=1;glass=0;gradientColor=#7ea6e0;" vertex="1" parent="1">
           <mxGeometry x="1008.99" y="5566" width="81" height="20" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-625" value="외부기관" style="strokeColor=none;fillColor=none;fontSize=12;align=left;html=1;rounded=1;glass=0;fontStyle=1;fontColor=#2E2536;" vertex="1" parent="1">
@@ -1134,13 +1131,13 @@
         <mxCell id="BgYx47iS89JeFPh7B9zp-629" value="" style="shape=line;strokeWidth=2;html=1;strokeColor=#DFE1E5;resizeWidth=1;rounded=1;glass=0;align=center;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="684" y="5655" width="410" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="BgYx47iS89JeFPh7B9zp-630" value="전체" style="strokeColor=#82b366;fillColor=#d5e8d4;fontSize=11;rounded=1;html=1;align=center;fontStyle=1;glass=0;" vertex="1" parent="1">
+        <mxCell id="BgYx47iS89JeFPh7B9zp-630" value="전체" style="strokeColor=#d79b00;fillColor=#ffcd28;fontSize=11;rounded=1;html=1;align=center;fontStyle=1;glass=0;gradientColor=#ffa500;" vertex="1" parent="1">
           <mxGeometry x="1008.99" y="5538" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="BgYx47iS89JeFPh7B9zp-631" value="전체" style="strokeColor=#82b366;fillColor=#d5e8d4;fontSize=11;rounded=1;html=1;align=center;fontStyle=1;glass=0;" vertex="1" parent="1">
+        <mxCell id="BgYx47iS89JeFPh7B9zp-631" value="전체" style="strokeColor=#d79b00;fillColor=#ffcd28;fontSize=11;rounded=1;html=1;align=center;fontStyle=1;glass=0;gradientColor=#ffa500;" vertex="1" parent="1">
           <mxGeometry x="1008.99" y="5595.5" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="BgYx47iS89JeFPh7B9zp-632" value="승인된 사용자" style="strokeColor=none;fillColor=#CCE0FF;fontSize=11;fontColor=#3384FF;rounded=1;html=1;align=center;fontStyle=1;glass=0;" vertex="1" parent="1">
+        <mxCell id="BgYx47iS89JeFPh7B9zp-632" value="승인된 사용자" style="strokeColor=#6c8ebf;fillColor=#dae8fc;fontSize=11;rounded=1;html=1;align=center;fontStyle=1;glass=0;gradientColor=#7ea6e0;" vertex="1" parent="1">
           <mxGeometry x="1009.41" y="5625.5" width="81" height="20" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-640" value="&lt;b&gt;AI 모델 생성 과정&lt;/b&gt;" style="swimlane;html=1;startSize=20;horizontal=1;childLayout=treeLayout;horizontalTree=0;resizable=0;containerType=tree;fontStyle=0" vertex="1" parent="1">
@@ -1249,59 +1246,68 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BgYx47iS89JeFPh7B9zp-698" value="전처리 방안" style="html=1;fillColor=none;strokeColor=none;fontSize=11;align=left;whiteSpace=wrap;rounded=1;glass=0;fontStyle=1;fontColor=#2E2536;" vertex="1" parent="1">
+        <mxCell id="BgYx47iS89JeFPh7B9zp-698" value="전처리" style="html=1;fillColor=none;strokeColor=none;fontSize=11;align=left;whiteSpace=wrap;rounded=1;glass=0;fontStyle=1;fontColor=#2E2536;" vertex="1" parent="1">
           <mxGeometry x="344" y="4760" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-699" value="설명" style="html=1;fillColor=none;strokeColor=none;fontSize=11;align=left;whiteSpace=wrap;rounded=1;glass=0;fontStyle=1;fontColor=#2E2536;" vertex="1" parent="1">
           <mxGeometry x="483" y="4760" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="BgYx47iS89JeFPh7B9zp-700" value="공개 여부" style="html=1;fillColor=none;strokeColor=none;fontSize=11;align=center;fontColor=#596780;whiteSpace=wrap;rounded=1;glass=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="835.94" y="4760" width="90" height="20" as="geometry" />
+        <mxCell id="BgYx47iS89JeFPh7B9zp-700" value="구분" style="html=1;fillColor=none;strokeColor=none;fontSize=11;align=center;fontColor=#596780;whiteSpace=wrap;rounded=1;glass=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="867.6" y="4760.75" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="BgYx47iS89JeFPh7B9zp-702" value="이미지" style="strokeColor=none;fillColor=none;fontSize=12;align=left;html=1;rounded=1;glass=0;fontStyle=1;fontColor=#2E2536;" vertex="1" parent="1">
+        <mxCell id="BgYx47iS89JeFPh7B9zp-702" value="Clustering" style="strokeColor=none;fillColor=none;fontSize=12;align=left;html=1;rounded=1;glass=0;fontStyle=1;fontColor=#2E2536;" vertex="1" parent="1">
           <mxGeometry x="344" y="4791" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="BgYx47iS89JeFPh7B9zp-703" value="Main Branch" style="strokeColor=none;fillColor=#EDEEEF;fontSize=11;fontColor=#596780;rounded=1;html=1;glass=0;align=center;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="908.75" y="4793" width="65" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="BgYx47iS89JeFPh7B9zp-704" value="포털 사용에 대한 공지" style="strokeColor=none;fillColor=none;fontSize=12;align=left;html=1;rounded=1;glass=0;fontStyle=1;fontColor=#2E2536;" vertex="1" parent="1">
+        <mxCell id="BgYx47iS89JeFPh7B9zp-704" value="Unsupervised Data를 군집화" style="strokeColor=none;fillColor=none;fontSize=12;align=left;html=1;rounded=1;glass=0;fontStyle=1;fontColor=#2E2536;" vertex="1" parent="1">
           <mxGeometry x="483" y="4791" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="BgYx47iS89JeFPh7B9zp-705" value="진행 상황" style="strokeColor=none;fillColor=none;fontSize=12;align=left;html=1;rounded=1;glass=0;fontStyle=1;fontColor=#2E2536;" vertex="1" parent="1">
+        <mxCell id="BgYx47iS89JeFPh7B9zp-705" value="Classification" style="strokeColor=none;fillColor=none;fontSize=12;align=left;html=1;rounded=1;glass=0;fontStyle=1;fontColor=#2E2536;" vertex="1" parent="1">
           <mxGeometry x="344" y="4821" width="240" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="BgYx47iS89JeFPh7B9zp-706" value="개별 기능 및 시험 장비 사용에 대한 설명" style="strokeColor=none;fillColor=none;fontSize=12;align=left;html=1;rounded=1;glass=0;fontStyle=1;fontColor=#2E2536;" vertex="1" parent="1">
+        <mxCell id="BgYx47iS89JeFPh7B9zp-706" value="비슷하게 군집화된 집단의 분류" style="strokeColor=none;fillColor=none;fontSize=12;align=left;html=1;rounded=1;glass=0;fontStyle=1;fontColor=#2E2536;" vertex="1" parent="1">
           <mxGeometry x="483" y="4821" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="BgYx47iS89JeFPh7B9zp-707" value="승인된 사용자" style="strokeColor=none;fillColor=#CCE0FF;fontSize=11;fontColor=#3384FF;rounded=1;html=1;align=center;fontStyle=1;glass=0;" vertex="1" parent="1">
-          <mxGeometry x="860.94" y="4821" width="81" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="BgYx47iS89JeFPh7B9zp-708" value="Q &amp;amp; A" style="strokeColor=none;fillColor=none;fontSize=12;align=left;html=1;rounded=1;glass=0;fontStyle=1;fontColor=#2E2536;" vertex="1" parent="1">
+        <mxCell id="BgYx47iS89JeFPh7B9zp-708" value="Image/Graph" style="strokeColor=none;fillColor=none;fontSize=12;align=left;html=1;rounded=1;glass=0;fontStyle=1;fontColor=#2E2536;" vertex="1" parent="1">
           <mxGeometry x="344" y="4851" width="240" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="BgYx47iS89JeFPh7B9zp-709" value="시험 및 사용 중 문의 사항 질문 및 답변" style="strokeColor=none;fillColor=none;fontSize=12;align=left;html=1;rounded=1;glass=0;fontStyle=1;fontColor=#2E2536;" vertex="1" parent="1">
+        <mxCell id="BgYx47iS89JeFPh7B9zp-709" value="분류된 집단에 대한 이미지 또는 그래프 특성" style="strokeColor=none;fillColor=none;fontSize=12;align=left;html=1;rounded=1;glass=0;fontStyle=1;fontColor=#2E2536;" vertex="1" parent="1">
           <mxGeometry x="483" y="4851" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="BgYx47iS89JeFPh7B9zp-710" value="다운로드" style="strokeColor=none;fillColor=none;fontSize=12;align=left;html=1;rounded=1;glass=0;fontStyle=1;fontColor=#2E2536;" vertex="1" parent="1">
-          <mxGeometry x="344" y="4881" width="240" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="BgYx47iS89JeFPh7B9zp-711" value="서버형 장비 및 장비에서 사용되는&lt;br&gt;Agent 프로그램 다운로드" style="strokeColor=none;fillColor=none;fontSize=12;align=left;html=1;rounded=1;glass=0;fontStyle=1;fontColor=#2E2536;" vertex="1" parent="1">
-          <mxGeometry x="483" y="4881" width="50" height="20" as="geometry" />
+        <mxCell id="BgYx47iS89JeFPh7B9zp-710" value="Extraction Data" style="strokeColor=none;fillColor=none;fontSize=12;align=left;html=1;rounded=1;glass=0;fontStyle=1;fontColor=#2E2536;" vertex="1" parent="1">
+          <mxGeometry x="344" y="4881" width="106" height="20" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-712" value="" style="shape=line;strokeWidth=2;html=1;strokeColor=#DFE1E5;resizeWidth=1;rounded=1;glass=0;align=center;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="344" y="4910" width="726" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="BgYx47iS89JeFPh7B9zp-713" value="전체" style="strokeColor=#82b366;fillColor=#d5e8d4;fontSize=11;rounded=1;html=1;align=center;fontStyle=1;glass=0;" vertex="1" parent="1">
-          <mxGeometry x="860.94" y="4793" width="40" height="20" as="geometry" />
+        <mxCell id="BgYx47iS89JeFPh7B9zp-713" value="Method" style="strokeColor=#d79b00;fillColor=#ffcd28;fontSize=11;rounded=1;html=1;align=center;fontStyle=1;glass=0;gradientColor=#ffa500;" vertex="1" parent="1">
+          <mxGeometry x="892.6" y="4793.75" width="47.4" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="BgYx47iS89JeFPh7B9zp-714" value="전체" style="strokeColor=#82b366;fillColor=#d5e8d4;fontSize=11;rounded=1;html=1;align=center;fontStyle=1;glass=0;" vertex="1" parent="1">
-          <mxGeometry x="860.94" y="4850.5" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="BgYx47iS89JeFPh7B9zp-715" value="승인된 사용자" style="strokeColor=none;fillColor=#CCE0FF;fontSize=11;fontColor=#3384FF;rounded=1;html=1;align=center;fontStyle=1;glass=0;" vertex="1" parent="1">
-          <mxGeometry x="861.3599999999999" y="4880.5" width="81" height="20" as="geometry" />
+        <mxCell id="BgYx47iS89JeFPh7B9zp-715" value="Algotirhm" style="strokeColor=#6c8ebf;fillColor=#dae8fc;fontSize=11;rounded=1;html=1;align=center;fontStyle=1;glass=0;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="892.5999999999999" y="4851" width="81" height="20" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-717" value="" style="shape=line;strokeWidth=2;html=1;strokeColor=#DFE1E5;resizeWidth=1;rounded=1;glass=0;align=center;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="343.99" y="4781" width="726" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="BgYx47iS89JeFPh7B9zp-722" value="특징적인 데이터들에 대한 추출 진행" style="strokeColor=none;fillColor=none;fontSize=12;align=left;html=1;rounded=1;glass=0;fontStyle=1;fontColor=#2E2536;" vertex="1" parent="1">
+          <mxGeometry x="483" y="4881" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BgYx47iS89JeFPh7B9zp-724" value="Method" style="strokeColor=#d79b00;fillColor=#ffcd28;fontSize=11;rounded=1;html=1;align=center;fontStyle=1;glass=0;gradientColor=#ffa500;" vertex="1" parent="1">
+          <mxGeometry x="893.02" y="4821" width="47.4" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BgYx47iS89JeFPh7B9zp-727" value="Algotirhm" style="strokeColor=#6c8ebf;fillColor=#dae8fc;fontSize=11;rounded=1;html=1;align=center;fontStyle=1;glass=0;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="893.0199999999999" y="4881" width="81" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BgYx47iS89JeFPh7B9zp-728" value="Main" style="strokeColor=#82b366;fillColor=#d5e8d4;fontSize=11;rounded=1;html=1;glass=0;align=center;fontStyle=1;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="983.99" y="4851" width="65" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BgYx47iS89JeFPh7B9zp-729" value="Main&amp;nbsp;" style="strokeColor=#82b366;fillColor=#d5e8d4;fontSize=11;rounded=1;html=1;glass=0;align=center;fontStyle=1;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="956.38" y="4793.75" width="65" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BgYx47iS89JeFPh7B9zp-730" value="Necessary" style="strokeColor=#b85450;fillColor=#f8cecc;fontSize=11;rounded=1;html=1;glass=0;align=center;fontStyle=1;gradientColor=#ea6b66;" vertex="1" parent="1">
+          <mxGeometry x="983.99" y="4881" width="65" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BgYx47iS89JeFPh7B9zp-733" value="Necessary" style="strokeColor=#b85450;fillColor=#f8cecc;fontSize=11;rounded=1;html=1;glass=0;align=center;fontStyle=1;gradientColor=#ea6b66;" vertex="1" parent="1">
+          <mxGeometry x="956.38" y="4821" width="65" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
