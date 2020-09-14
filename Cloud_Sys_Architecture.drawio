@@ -1,4 +1,4 @@
-<mxfile modified="2020-09-14T01:14:02.576Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="QnXhKoNhJNWLJNFKXoyj" version="13.6.9" type="github">
+<mxfile modified="2020-09-14T01:21:48.825Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="-1AdomaKNy2anNEJVdlM" version="13.6.9" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -312,7 +312,7 @@
         <mxCell id="o9lZUVFjSXX-9Ml6_j3k-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=15;fontColor=#0000CC;" parent="1" source="o9lZUVFjSXX-9Ml6_j3k-4" target="o9lZUVFjSXX-9Ml6_j3k-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o9lZUVFjSXX-9Ml6_j3k-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;fontColor=#0000CC;" parent="1" source="o9lZUVFjSXX-9Ml6_j3k-4" target="o9lZUVFjSXX-9Ml6_j3k-6" edge="1">
+        <mxCell id="o9lZUVFjSXX-9Ml6_j3k-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;fontColor=#0000CC;" parent="1" source="o9lZUVFjSXX-9Ml6_j3k-4" target="o9lZUVFjSXX-9Ml6_j3k-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o9lZUVFjSXX-9Ml6_j3k-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontSize=18;fontColor=#0000CC;" parent="1" source="o9lZUVFjSXX-9Ml6_j3k-4" edge="1">
@@ -329,6 +329,9 @@
         <mxCell id="o9lZUVFjSXX-9Ml6_j3k-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=18;fontColor=#0000CC;" parent="1" source="o9lZUVFjSXX-9Ml6_j3k-4" target="o9lZUVFjSXX-9Ml6_j3k-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="BgYx47iS89JeFPh7B9zp-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="o9lZUVFjSXX-9Ml6_j3k-4" target="BgYx47iS89JeFPh7B9zp-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="o9lZUVFjSXX-9Ml6_j3k-4" value="API GATEWAY" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontStyle=1;fontSize=21;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="202.5" y="1995" width="737.5" height="80" as="geometry" />
         </mxCell>
@@ -339,7 +342,7 @@
           <mxGeometry x="80" y="1840" width="81.2" height="390" as="geometry" />
         </mxCell>
         <mxCell id="o9lZUVFjSXX-9Ml6_j3k-6" value="Maintenance" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="446" y="2120" width="114" height="110" as="geometry" />
+          <mxGeometry x="296.5" y="2120" width="114" height="110" as="geometry" />
         </mxCell>
         <mxCell id="o9lZUVFjSXX-9Ml6_j3k-7" value="Ask the expert" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="572" y="2120" width="114" height="110" as="geometry" />
@@ -354,7 +357,7 @@
           <mxGeometry x="190" y="1890" width="40" height="15" as="geometry" />
         </mxCell>
         <mxCell id="o9lZUVFjSXX-9Ml6_j3k-14" value="Service" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1;horizontal=0;fontColor=#0000CC;" parent="1" vertex="1">
-          <mxGeometry x="406" y="2167.5" width="40" height="15" as="geometry" />
+          <mxGeometry x="256.5" y="2167.5" width="40" height="15" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="o9lZUVFjSXX-9Ml6_j3k-17" target="o9lZUVFjSXX-9Ml6_j3k-29">
           <mxGeometry relative="1" as="geometry">
@@ -382,7 +385,7 @@
         <mxCell id="BgYx47iS89JeFPh7B9zp-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAEDED;fontSize=22;fontColor=#FFFFFF;strokeColor=none;labelBackgroundColor=none;shadow=0;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="2280" width="990" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="BgYx47iS89JeFPh7B9zp-7" value="노트북과 Desktop은 시험 분석 SW를 이용하기 위한 기본 연결 장비&lt;br&gt;&lt;br&gt;PC의 기능을 가진 제품만이 시험 분석 SW의 모든 기능을 이용 가능&lt;br&gt;&lt;br&gt;접속 화면의 크기 및 다양한 방법으로 접속 장비의 종류를 체크&lt;br&gt;&lt;br&gt;접속 지역과 사용 언어의 설정은 접속 local을 기반으로 설정" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="BgYx47iS89JeFPh7B9zp-7" value="KOSYAS 시험 분석 플랫폼은 API GATEWAY를 통하여 각 모듈 및 서비스 기능들이 실행/확장되는 형태&lt;br&gt;&lt;br&gt;API GATEWAY을 통하여 진행되는 방식의 마이크로서비스 방법으로 설계&lt;br&gt;&lt;br&gt;모듈의 연계성 및 확장을 위하여 분석 코어 부분은 단계 별로 실행이 가능하도록 분리 설계&lt;br&gt;&lt;br&gt;Service의 Maintenance를 통하여 각 모듈 및 서비스의 기능을 확장/축소/관리를 진행&lt;br&gt;&lt;br&gt;Service는 Maintenance 이외에서도 플랫폼의 기능들을 설명하는&amp;nbsp;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="110" y="2290" width="930" height="150" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-8" value="" style="shape=flexArrow;endArrow=classic;html=1;width=22;endSize=5.33;fillColor=#d80073;strokeColor=#A50040;" edge="1" parent="1">
@@ -402,6 +405,9 @@
             <mxPoint x="540" y="1023.5" as="sourcePoint" />
             <mxPoint x="570" y="1023.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="BgYx47iS89JeFPh7B9zp-12" value="MSDN" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="434" y="2120" width="114" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
