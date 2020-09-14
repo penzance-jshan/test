@@ -1,4 +1,4 @@
-<mxfile modified="2020-09-14T01:10:48.555Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="32scwzL0qvgBBIhMdX24" version="13.6.9" type="github">
+<mxfile modified="2020-09-14T01:11:49.773Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="rFHX9m7WuDrtDOHxRx_D" version="13.6.9" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -379,20 +379,29 @@
         <mxCell id="o9lZUVFjSXX-9Ml6_j3k-29" value="Output" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="830.8199999999999" y="1840" width="114" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="BgYx47iS89JeFPh7B9zp-2" value="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;perimeterSpacing=11;arcSize=12;" vertex="1" parent="1">
-          <mxGeometry x="551.25" y="960" width="40" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="BgYx47iS89JeFPh7B9zp-3" value="2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;perimeterSpacing=11;arcSize=12;glass=0;perimeter=rectanglePerimeter;" vertex="1" parent="1">
-          <mxGeometry x="551.25" y="1165" width="40" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="BgYx47iS89JeFPh7B9zp-4" value="3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;perimeterSpacing=11;arcSize=12;" vertex="1" parent="1">
-          <mxGeometry x="551.25" y="1420" width="40" height="38" as="geometry" />
-        </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAEDED;fontSize=22;fontColor=#FFFFFF;strokeColor=none;labelBackgroundColor=none;shadow=0;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="2280" width="990" height="170" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-7" value="노트북과 Desktop은 시험 분석 SW를 이용하기 위한 기본 연결 장비&lt;br&gt;&lt;br&gt;PC의 기능을 가진 제품만이 시험 분석 SW의 모든 기능을 이용 가능&lt;br&gt;&lt;br&gt;접속 화면의 크기 및 다양한 방법으로 접속 장비의 종류를 체크&lt;br&gt;&lt;br&gt;접속 지역과 사용 언어의 설정은 접속 local을 기반으로 설정" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="110" y="2290" width="930" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="BgYx47iS89JeFPh7B9zp-8" value="" style="shape=flexArrow;endArrow=classic;html=1;width=22;endSize=5.33;fillColor=#d80073;strokeColor=#A50040;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="1477" as="sourcePoint" />
+            <mxPoint x="570" y="1477" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BgYx47iS89JeFPh7B9zp-9" value="" style="shape=flexArrow;endArrow=classic;html=1;width=22;endSize=5.33;fillColor=#d80073;strokeColor=#A50040;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="1234.5" as="sourcePoint" />
+            <mxPoint x="570" y="1234.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BgYx47iS89JeFPh7B9zp-10" value="" style="shape=flexArrow;endArrow=classic;html=1;width=22;endSize=5.33;fillColor=#d80073;strokeColor=#A50040;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="1023.5" as="sourcePoint" />
+            <mxPoint x="570" y="1023.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
