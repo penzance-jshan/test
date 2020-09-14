@@ -1,4 +1,4 @@
-<mxfile modified="2020-09-14T04:28:24.696Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="oHjkaFepm6lk1dVFZ5L_" version="13.6.9" type="github">
+<mxfile modified="2020-09-14T04:28:36.189Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="XbTFECcqZtiIYDaBf6tZ" version="13.6.9" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -85,7 +85,7 @@
         <mxCell id="QFQmXC5sFYSZ4ZFRvqXh-20" value="AI 분석&lt;br&gt;" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#60A337;gradientDirection=north;fillColor=#277116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=1;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.iot_analytics;" parent="1" vertex="1">
           <mxGeometry x="1022.8" y="268.5" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="QFQmXC5sFYSZ4ZFRvqXh-23" value="데이터 분석 현황" style="image;html=1;image=img/lib/clip_art/finance/Pie_Chart_128x128.png" parent="1" vertex="1">
+        <mxCell id="QFQmXC5sFYSZ4ZFRvqXh-23" value="데이터 분석 현황" style="image;html=1;image=img/lib/clip_art/finance/Pie_Chart_128x128.png;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="830.82" y="370.8" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QFQmXC5sFYSZ4ZFRvqXh-26" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/software-engineering-and-video-gaming/512/93_man_user_login_id_identity-128.png" parent="1" vertex="1">
@@ -135,7 +135,7 @@
         <mxCell id="QFQmXC5sFYSZ4ZFRvqXh-35" value="" style="whiteSpace=wrap;html=1;fillColor=none;fontSize=14;fontColor=#000000;dashed=0;fontStyle=0;align=center;verticalAlign=top;strokeColor=#D86613;gradientColor=none;spacingLeft=0;labelPosition=center;verticalLabelPosition=bottom;" parent="1" vertex="1">
           <mxGeometry x="459.5" y="460" width="101" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="QFQmXC5sFYSZ4ZFRvqXh-40" value="Reports" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.report;" parent="1" vertex="1">
+        <mxCell id="QFQmXC5sFYSZ4ZFRvqXh-40" value="Reports" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.report;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1016" y="380" width="36.8" height="50.8" as="geometry" />
         </mxCell>
         <mxCell id="QFQmXC5sFYSZ4ZFRvqXh-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.55;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="QFQmXC5sFYSZ4ZFRvqXh-46" target="SCVMTBWpLvtzJIhz15lM-5" edge="1">
@@ -150,7 +150,7 @@
         <mxCell id="QFQmXC5sFYSZ4ZFRvqXh-49" value="5" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="930" y="210" width="40" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="QFQmXC5sFYSZ4ZFRvqXh-53" value="데이터 내용 확인" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/business-management-3-4/256/m-21-128.png;opacity=50;" parent="1" vertex="1">
+        <mxCell id="QFQmXC5sFYSZ4ZFRvqXh-53" value="데이터 내용 확인" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/business-management-3-4/256/m-21-128.png;opacity=50;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="830.82" y="460" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QFQmXC5sFYSZ4ZFRvqXh-54" value="AI 모델 생성" style="fillColor=#28A8E0;verticalLabelPosition=bottom;html=1;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=ellipse;resIcon=mxgraph.cisco_safe.capability.analysis_correlation;opacity=50;fontStyle=1" parent="1" vertex="1">
@@ -158,9 +158,6 @@
         </mxCell>
         <mxCell id="QFQmXC5sFYSZ4ZFRvqXh-59" value="SW Core" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#60A337;gradientDirection=north;fillColor=#277116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.internet_of_things;" parent="1" vertex="1">
           <mxGeometry x="770" y="242" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="SCVMTBWpLvtzJIhz15lM-30" value="Screen" style="outlineConnect=0;gradientColor=none;fontColor=#545B64;strokeColor=none;fillColor=#879196;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.illustration_devices;pointerEvents=1" parent="1" vertex="1">
-          <mxGeometry x="1002" y="470" width="68.42" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QFQmXC5sFYSZ4ZFRvqXh-68" value="" style="shape=flexArrow;endArrow=classic;html=1;endWidth=25;endSize=4.57;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1152,6 +1149,9 @@
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-651" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=0;" edge="1" parent="BgYx47iS89JeFPh7B9zp-646" source="BgYx47iS89JeFPh7B9zp-647" target="BgYx47iS89JeFPh7B9zp-650">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SCVMTBWpLvtzJIhz15lM-30" value="Screen" style="outlineConnect=0;gradientColor=none;fontColor=#545B64;strokeColor=none;fillColor=#879196;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=1;aspect=fixed;shape=mxgraph.aws4.illustration_devices;pointerEvents=1" parent="1" vertex="1">
+          <mxGeometry x="1002" y="470" width="68.42" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
