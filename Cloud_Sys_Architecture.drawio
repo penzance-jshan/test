@@ -1,4 +1,4 @@
-<mxfile modified="2020-09-14T02:54:53.675Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="ykf24eoFUnQcy4xXUibF" version="13.6.9" type="github">
+<mxfile modified="2020-09-14T02:55:02.301Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="8NPEnvB81LRnj80Ns4Qh" version="13.6.9" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -928,30 +928,30 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-390" value="분석 방법&lt;br&gt;설정 단계" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;strokeWidth=1;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="118.63" y="3420" width="92.75" height="90" as="geometry" />
+          <mxGeometry x="270.81" y="3420" width="92.75" height="90" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-399" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BgYx47iS89JeFPh7B9zp-391" target="BgYx47iS89JeFPh7B9zp-392">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-391" value="분석 가능&lt;br&gt;항목 확인&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="268.9" y="3420" width="92.75" height="90" as="geometry" />
+          <mxGeometry x="421.08" y="3420" width="92.75" height="90" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-397" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BgYx47iS89JeFPh7B9zp-392" target="BgYx47iS89JeFPh7B9zp-393">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-392" value="제품 유형 확인" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="3420" width="92.75" height="90" as="geometry" />
+          <mxGeometry x="572.1800000000001" y="3420" width="92.75" height="90" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-393" value="용도 확인" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="613.62" y="3420" width="137.38" height="30" as="geometry" />
+          <mxGeometry x="765.8" y="3420" width="137.38" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-395" value="분석 등급 확인" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="613.62" y="3480" width="137.38" height="30" as="geometry" />
+          <mxGeometry x="765.8" y="3480" width="137.38" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-398" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BgYx47iS89JeFPh7B9zp-392" target="BgYx47iS89JeFPh7B9zp-395">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="522.75" y="3475" as="sourcePoint" />
-            <mxPoint x="592.6199999999999" y="3445" as="targetPoint" />
+            <mxPoint x="674.9300000000001" y="3475" as="sourcePoint" />
+            <mxPoint x="744.8" y="3445" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
