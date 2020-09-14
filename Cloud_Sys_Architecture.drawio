@@ -1,4 +1,4 @@
-<mxfile modified="2020-09-14T02:07:09.047Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="v0yd72QrFss3Sm92nuL8" version="13.6.9" type="github">
+<mxfile modified="2020-09-14T02:07:46.097Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="p_u9o-ISoRfqP_DOk2-B" version="13.6.9" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -563,7 +563,7 @@
             <mxPoint x="160" y="3510" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BgYx47iS89JeFPh7B9zp-108" value="제품 유형 확인" style="whiteSpace=wrap;html=1;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-69">
+        <mxCell id="BgYx47iS89JeFPh7B9zp-108" value="하드웨어 종류 확인" style="whiteSpace=wrap;html=1;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-69">
           <mxGeometry x="20" y="310" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-113" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=0;" edge="1" target="BgYx47iS89JeFPh7B9zp-108" source="BgYx47iS89JeFPh7B9zp-114" parent="BgYx47iS89JeFPh7B9zp-69">
@@ -579,7 +579,7 @@
             <mxPoint x="90" y="3670" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BgYx47iS89JeFPh7B9zp-116" value="제품 유형 확인" style="whiteSpace=wrap;html=1;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-69">
+        <mxCell id="BgYx47iS89JeFPh7B9zp-116" value="용도 확인" style="whiteSpace=wrap;html=1;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-69">
           <mxGeometry x="160" y="310" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-86" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.device" vertex="1" parent="1">
