@@ -1,4 +1,4 @@
-<mxfile modified="2020-09-14T00:57:04.586Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="HTeQLkPoq0eYkWBj8gGB" version="13.6.9" type="github">
+<mxfile modified="2020-09-14T01:03:36.056Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="isE-H4Woly0v2n_AcadQ" version="13.6.9" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -239,7 +239,7 @@
         <mxCell id="P20q1qlM85yPXvBPcYlH-4" value="3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="252.5" y="1345" width="40" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="P20q1qlM85yPXvBPcYlH-5" value="&lt;span&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/span&gt;&lt;br&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="P20q1qlM85yPXvBPcYlH-5" value="노트북과 Desktop은 시험 분석 SW를 이용하기 위한 기본 연결 장비&lt;br&gt;&lt;br&gt;PC의 기능을 가진 제품만이 시험 분석 SW의 모든 기능을 이용 가능&lt;br&gt;&lt;br&gt;접속 화면의 크기 및 다양한 방법으로 접속 장비의 종류를 체크&lt;br&gt;&lt;br&gt;접속 지역과 사용 언어의 설정은 접속 local을 기반으로 설정" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="600" y="970" width="490" height="150" as="geometry" />
         </mxCell>
         <mxCell id="P20q1qlM85yPXvBPcYlH-11" value="Soc&lt;br&gt;Hardware" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/computer-technology-23/64/processor-Cpu-microchip-hardware-128.png" parent="1" vertex="1">
@@ -277,7 +277,7 @@
         <mxCell id="P20q1qlM85yPXvBPcYlH-26" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;fontSize=22;labelBackgroundColor=none;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="570" y="1150" width="532.5" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="P20q1qlM85yPXvBPcYlH-27" value="&lt;span&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/span&gt;&lt;br&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="P20q1qlM85yPXvBPcYlH-27" value="진행중인 시험 분석 일정 및 진행 사항을 확인하고, 플랫폼의 이용방법 및 공유 게시판을 GUEST계정을 통하여 기본적인 확인을 할 수 있다.&lt;br&gt;시험 분석 SW의 시간 및 출력 기능에 대한 서비스를 배제하고 화면 출력 기능만을 포함한다." style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="600" y="1160" width="490" height="140" as="geometry" />
         </mxCell>
         <mxCell id="P20q1qlM85yPXvBPcYlH-28" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;fontSize=22;labelBackgroundColor=none;strokeColor=none;" parent="1" vertex="1">
