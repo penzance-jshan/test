@@ -1,4 +1,4 @@
-<mxfile modified="2020-09-14T01:59:51.285Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="4IX8qMxaERBvP57Uahiz" version="13.6.9" type="github">
+<mxfile modified="2020-09-14T02:00:44.241Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="SLqFzuS5ao7EYrol2nxJ" version="13.6.9" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -514,7 +514,7 @@
         <mxCell id="BgYx47iS89JeFPh7B9zp-64" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;fontSize=22;strokeColor=#d6b656;labelBackgroundColor=none;shadow=0;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="751" y="3010" width="380" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="BgYx47iS89JeFPh7B9zp-65" value="접속 장비에 따라 분석 가능&amp;nbsp;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="BgYx47iS89JeFPh7B9zp-65" value="접속 장비에 따라 분석 기능을 지원할 수 있는 장비인지 아닌지를 구분&lt;br&gt;&lt;br&gt;SW분석을 이용하기 위해서는 등록 장비인지에 대한 여부를 확인&lt;br&gt;&lt;br&gt;등록 장비가 아닌 경우에는 우선적으로 시험 장비 등록을 요청" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="771" y="3020" width="340" height="150" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-66" value="[Layer 4] 시험분석 방법 및 장비 설정&amp;nbsp;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontStyle=1" vertex="1" parent="1">
