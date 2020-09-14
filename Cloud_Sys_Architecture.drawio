@@ -1,4 +1,4 @@
-<mxfile modified="2020-09-14T01:54:47.086Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="4FWr3HbdGC54e_Tx5fgI" version="13.6.9" type="github">
+<mxfile modified="2020-09-14T01:57:07.756Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="Wb-GP2_VGgZGj9Pab4eU" version="13.6.9" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -490,16 +490,16 @@
         <mxCell id="BgYx47iS89JeFPh7B9zp-56" value="장비 정보 확인" style="swimlane;html=1;startSize=20;horizontal=1;childLayout=treeLayout;horizontalTree=0;resizable=0;containerType=tree;" vertex="1" parent="1">
           <mxGeometry x="431.75" y="3000" width="280" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="BgYx47iS89JeFPh7B9zp-57" value="Root" style="whiteSpace=wrap;html=1;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-56">
+        <mxCell id="BgYx47iS89JeFPh7B9zp-57" value="등록 장비 여부" style="whiteSpace=wrap;html=1;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-56">
           <mxGeometry x="90" y="40" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BgYx47iS89JeFPh7B9zp-58" value="Child 1" style="whiteSpace=wrap;html=1;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-56">
+        <mxCell id="BgYx47iS89JeFPh7B9zp-58" value="시험 분석 가능" style="whiteSpace=wrap;html=1;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-56">
           <mxGeometry x="20" y="130" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-59" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=0;" edge="1" parent="BgYx47iS89JeFPh7B9zp-56" source="BgYx47iS89JeFPh7B9zp-57" target="BgYx47iS89JeFPh7B9zp-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BgYx47iS89JeFPh7B9zp-60" value="Child 2" style="whiteSpace=wrap;html=1;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-56">
+        <mxCell id="BgYx47iS89JeFPh7B9zp-60" value="시험 장비 등록 요청" style="whiteSpace=wrap;html=1;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-56">
           <mxGeometry x="160" y="130" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-61" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=0;" edge="1" parent="BgYx47iS89JeFPh7B9zp-56" source="BgYx47iS89JeFPh7B9zp-57" target="BgYx47iS89JeFPh7B9zp-60">
