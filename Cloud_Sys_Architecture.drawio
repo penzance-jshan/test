@@ -1,4 +1,4 @@
-<mxfile modified="2020-09-14T03:03:53.181Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="yYAoHsErYw0gsH9exRku" version="13.6.9" type="github">
+<mxfile modified="2020-09-14T03:04:28.239Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="FYsx4QZxZAAA80CtEKoz" version="13.6.9" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -744,7 +744,7 @@
         <mxCell id="BgYx47iS89JeFPh7B9zp-371" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-319">
           <mxGeometry y="73" width="320" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="BgYx47iS89JeFPh7B9zp-373" value="침입방지시스템(IPS)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;overflow=hidden;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-371">
+        <mxCell id="BgYx47iS89JeFPh7B9zp-373" value="침입방지시스템(IPS)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;overflow=hidden;strokeColor=none;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-371">
           <mxGeometry width="174" height="42" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-375" value="디지털 복합기" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;overflow=hidden;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-371">
