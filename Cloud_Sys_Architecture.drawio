@@ -1,4 +1,4 @@
-<mxfile modified="2020-09-14T03:52:13.611Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="Ato2N70ayb-SnhisoroW" version="13.6.9" type="github">
+<mxfile modified="2020-09-14T03:53:57.896Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="3jAuutCL8D0g_r0O2o6o" version="13.6.9" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -919,7 +919,51 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-502" value="제품 유형 확인" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="118.62000000000006" y="5080" width="92.75" height="90" as="geometry" />
+          <mxGeometry x="126" y="5240" width="92.75" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="BgYx47iS89JeFPh7B9zp-504" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;fontColor=#000000;" edge="1" parent="1" source="BgYx47iS89JeFPh7B9zp-505">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="5119" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BgYx47iS89JeFPh7B9zp-505" value="공유 플랫폼" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/quarantine-4/64/online_community_work_communication_meeting_monitor0-128.png;opacity=30;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="126" y="5089" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BgYx47iS89JeFPh7B9zp-506" value="Service" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/free-3d-social-icons/png/128x128/MySpace.png;fontSize=11;fontColor=#000000;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="330" y="5089" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BgYx47iS89JeFPh7B9zp-507" value="분석 일정 공유" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/ikooni-outline-free-basic/128/free-20-128.png;fontSize=11;fontColor=#000000;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="516" y="5089" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BgYx47iS89JeFPh7B9zp-508" value="분석 자료 공유" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud_service_package_file;fontSize=11;fontColor=#000000;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="431.25" y="5089" width="42.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BgYx47iS89JeFPh7B9zp-509" value="" style="whiteSpace=wrap;html=1;fillColor=#a0522d;fontSize=14;dashed=0;fontStyle=0;align=center;verticalAlign=top;strokeColor=#6D1F00;spacingLeft=0;labelPosition=center;verticalLabelPosition=bottom;opacity=10;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="290" y="5080" width="310" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="BgYx47iS89JeFPh7B9zp-513" value="제품 유형 확인" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="244.62" y="5240" width="92.75" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="BgYx47iS89JeFPh7B9zp-514" value="제품 유형 확인" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="359.86" y="5240" width="92.75" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="BgYx47iS89JeFPh7B9zp-515" value="제품 유형 확인" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="473.07" y="5240" width="92.75" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="BgYx47iS89JeFPh7B9zp-516" value="제품 유형 확인" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="591.6899999999999" y="5240" width="92.75" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="BgYx47iS89JeFPh7B9zp-517" value="제품 유형 확인" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="119.94999999999993" y="5480" width="92.75" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="BgYx47iS89JeFPh7B9zp-518" value="제품 유형 확인" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="234.39" y="5480" width="92.75" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="BgYx47iS89JeFPh7B9zp-519" value="제품 유형 확인" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="353.01" y="5480" width="92.75" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="BgYx47iS89JeFPh7B9zp-520" value="제품 유형 확인" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="468.25" y="5480" width="92.75" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
