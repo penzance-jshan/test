@@ -1,4 +1,4 @@
-<mxfile modified="2020-09-14T04:28:36.189Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="XbTFECcqZtiIYDaBf6tZ" version="13.6.9" type="github">
+<mxfile modified="2020-09-14T04:28:47.122Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="3r-yLGlG0XEASWiLmNh6" version="13.6.9" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -182,7 +182,7 @@
         <mxCell id="QFQmXC5sFYSZ4ZFRvqXh-79" value="분석 자료 공유" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud_service_package_file;fontSize=11;fontColor=#000000;opacity=30;" parent="1" vertex="1">
           <mxGeometry x="931.25" y="650" width="42.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="QFQmXC5sFYSZ4ZFRvqXh-81" value="" style="whiteSpace=wrap;html=1;fillColor=#a0522d;fontSize=14;dashed=0;fontStyle=0;align=center;verticalAlign=top;strokeColor=#6D1F00;spacingLeft=0;labelPosition=center;verticalLabelPosition=bottom;opacity=10;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="QFQmXC5sFYSZ4ZFRvqXh-81" value="" style="whiteSpace=wrap;html=1;fillColor=#a0522d;fontSize=14;dashed=0;fontStyle=0;align=center;verticalAlign=top;strokeColor=#6D1F00;spacingLeft=0;labelPosition=center;verticalLabelPosition=bottom;opacity=10;fontColor=#ffffff;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="790" y="641" width="310" height="85" as="geometry" />
         </mxCell>
         <mxCell id="QFQmXC5sFYSZ4ZFRvqXh-82" value="[Layer 1] SW 플랫폼 연결 장비" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontStyle=1" parent="1" vertex="1">
