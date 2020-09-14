@@ -1,4 +1,4 @@
-<mxfile modified="2020-09-14T01:03:36.056Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="isE-H4Woly0v2n_AcadQ" version="13.6.9" type="github">
+<mxfile modified="2020-09-14T01:04:48.866Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="13hBJbsafLG71tVRnloX" version="13.6.9" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -277,7 +277,7 @@
         <mxCell id="P20q1qlM85yPXvBPcYlH-26" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;fontSize=22;labelBackgroundColor=none;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="570" y="1150" width="532.5" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="P20q1qlM85yPXvBPcYlH-27" value="진행중인 시험 분석 일정 및 진행 사항을 확인하고, 플랫폼의 이용방법 및 공유 게시판을 GUEST계정을 통하여 기본적인 확인을 할 수 있다.&lt;br&gt;시험 분석 SW의 시간 및 출력 기능에 대한 서비스를 배제하고 화면 출력 기능만을 포함한다." style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="P20q1qlM85yPXvBPcYlH-27" value="모바일 클라이언트는 진행중인 시험 분석 일정 및 진행 사항이 확인 가능&lt;br&gt;&lt;br&gt;플랫폼의 이용방법 및 공유 게시판을 GUEST계정을 통하여 확인&lt;br&gt;&lt;br&gt;시험 분석 SW의 시간 및 출력 기능에 대한 서비스를 배제&lt;br&gt;&lt;br&gt;출력 물에 있어서도 화면 출력 기능만을 포함" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="600" y="1160" width="490" height="140" as="geometry" />
         </mxCell>
         <mxCell id="P20q1qlM85yPXvBPcYlH-28" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;fontSize=22;labelBackgroundColor=none;strokeColor=none;" parent="1" vertex="1">
