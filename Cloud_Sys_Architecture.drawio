@@ -1,4 +1,4 @@
-<mxfile modified="2020-09-14T01:44:26.967Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="0_dTVFFkblrtam5hi4Q7" version="13.6.9" type="github">
+<mxfile modified="2020-09-14T01:47:36.896Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="99qmDvYfv0T-EpbmfuSL" version="13.6.9" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -410,15 +410,21 @@
           <mxGeometry x="434" y="2120" width="114" height="110" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-26" value="사용자 정보 확인" style="swimlane;html=1;startSize=20;horizontal=1;childLayout=treeLayout;horizontalTree=0;resizable=0;containerType=tree;" vertex="1" parent="1">
-          <mxGeometry x="90" y="2635" width="280" height="190" as="geometry" />
+          <mxGeometry x="90" y="2635" width="280" height="290" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-27" value="로그인" style="whiteSpace=wrap;html=1;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-26">
           <mxGeometry x="90" y="40" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BgYx47iS89JeFPh7B9zp-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="BgYx47iS89JeFPh7B9zp-26" source="BgYx47iS89JeFPh7B9zp-28" target="BgYx47iS89JeFPh7B9zp-79">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-28" value="관리자" style="whiteSpace=wrap;html=1;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-26">
           <mxGeometry x="20" y="130" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-29" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=0;" edge="1" parent="BgYx47iS89JeFPh7B9zp-26" source="BgYx47iS89JeFPh7B9zp-27" target="BgYx47iS89JeFPh7B9zp-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BgYx47iS89JeFPh7B9zp-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="BgYx47iS89JeFPh7B9zp-26" source="BgYx47iS89JeFPh7B9zp-30" target="BgYx47iS89JeFPh7B9zp-80">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-30" value="일반 사용자" style="whiteSpace=wrap;html=1;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-26">
@@ -427,29 +433,38 @@
         <mxCell id="BgYx47iS89JeFPh7B9zp-31" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=0;" edge="1" parent="BgYx47iS89JeFPh7B9zp-26" source="BgYx47iS89JeFPh7B9zp-27" target="BgYx47iS89JeFPh7B9zp-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="BgYx47iS89JeFPh7B9zp-79" value="SW 플랫폼의 관리 기능 및 모든 기능 확인/분석" style="whiteSpace=wrap;html=1;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-26">
+          <mxGeometry x="20" y="220" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BgYx47iS89JeFPh7B9zp-80" value="시험 기능 및 서비스 기능 이용 가능" style="whiteSpace=wrap;html=1;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-26">
+          <mxGeometry x="160" y="220" width="100" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-32" value="장비 정보 확인" style="swimlane;html=1;startSize=20;horizontal=1;childLayout=treeLayout;horizontalTree=0;resizable=0;containerType=tree;" vertex="1" parent="1">
           <mxGeometry x="90" y="2990" width="280" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="BgYx47iS89JeFPh7B9zp-33" value="접속 장비" style="whiteSpace=wrap;html=1;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-32">
+        <mxCell id="BgYx47iS89JeFPh7B9zp-33" value="접속 장비 확인" style="whiteSpace=wrap;html=1;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-32">
           <mxGeometry x="90" y="40" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BgYx47iS89JeFPh7B9zp-34" value="Child 1" style="whiteSpace=wrap;html=1;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-32">
+        <mxCell id="BgYx47iS89JeFPh7B9zp-34" value="SW 분석 가능" style="whiteSpace=wrap;html=1;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-32">
           <mxGeometry x="20" y="130" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-35" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=0;" edge="1" parent="BgYx47iS89JeFPh7B9zp-32" source="BgYx47iS89JeFPh7B9zp-33" target="BgYx47iS89JeFPh7B9zp-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BgYx47iS89JeFPh7B9zp-36" value="Child 2" style="whiteSpace=wrap;html=1;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-32">
+        <mxCell id="BgYx47iS89JeFPh7B9zp-36" value="SW 분석 불가" style="whiteSpace=wrap;html=1;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-32">
           <mxGeometry x="160" y="130" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-37" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=0;" edge="1" parent="BgYx47iS89JeFPh7B9zp-32" source="BgYx47iS89JeFPh7B9zp-33" target="BgYx47iS89JeFPh7B9zp-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-50" value="사용자 정보 확인" style="swimlane;html=1;startSize=20;horizontal=1;childLayout=treeLayout;horizontalTree=0;resizable=0;containerType=tree;" vertex="1" parent="1">
-          <mxGeometry x="435.75" y="2635" width="280" height="190" as="geometry" />
+          <mxGeometry x="435.75" y="2635" width="280" height="290" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-51" value="비로그인" style="whiteSpace=wrap;html=1;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-50">
           <mxGeometry x="90" y="40" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BgYx47iS89JeFPh7B9zp-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="BgYx47iS89JeFPh7B9zp-50" source="BgYx47iS89JeFPh7B9zp-52" target="BgYx47iS89JeFPh7B9zp-76">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-52" value="방문자" style="whiteSpace=wrap;html=1;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-50">
           <mxGeometry x="20" y="130" width="100" height="40" as="geometry" />
@@ -457,11 +472,20 @@
         <mxCell id="BgYx47iS89JeFPh7B9zp-53" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=0;" edge="1" parent="BgYx47iS89JeFPh7B9zp-50" source="BgYx47iS89JeFPh7B9zp-51" target="BgYx47iS89JeFPh7B9zp-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="BgYx47iS89JeFPh7B9zp-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="BgYx47iS89JeFPh7B9zp-50" source="BgYx47iS89JeFPh7B9zp-54" target="BgYx47iS89JeFPh7B9zp-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-54" value="장비 확인에 따른 로그인 기능 제한" style="whiteSpace=wrap;html=1;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-50">
           <mxGeometry x="160" y="130" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-55" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=0;" edge="1" parent="BgYx47iS89JeFPh7B9zp-50" source="BgYx47iS89JeFPh7B9zp-51" target="BgYx47iS89JeFPh7B9zp-54">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BgYx47iS89JeFPh7B9zp-75" value="제한 기능만 이용 가능" style="whiteSpace=wrap;html=1;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-50">
+          <mxGeometry x="160" y="220" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BgYx47iS89JeFPh7B9zp-76" value="기능 소개 및 사용 방법/공유게시판" style="whiteSpace=wrap;html=1;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-50">
+          <mxGeometry x="20" y="220" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-56" value="장비 정보 확인" style="swimlane;html=1;startSize=20;horizontal=1;childLayout=treeLayout;horizontalTree=0;resizable=0;containerType=tree;" vertex="1" parent="1">
           <mxGeometry x="429.25" y="2990" width="280" height="190" as="geometry" />
