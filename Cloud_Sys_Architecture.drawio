@@ -1,9 +1,12 @@
-<mxfile modified="2020-09-14T01:11:49.773Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="rFHX9m7WuDrtDOHxRx_D" version="13.6.9" type="github">
+<mxfile modified="2020-09-14T01:14:02.576Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="QnXhKoNhJNWLJNFKXoyj" version="13.6.9" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="BgYx47iS89JeFPh7B9zp-11" value="데이터 수집" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;rounded=1;glass=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="834.64" y="268.5" width="46.18" height="51.5" as="geometry" />
+        </mxCell>
         <mxCell id="SCVMTBWpLvtzJIhz15lM-34" value="" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;fontSize=14;dashed=0;fontStyle=0;align=center;verticalAlign=top;strokeColor=#d79b00;spacingLeft=0;labelPosition=center;verticalLabelPosition=bottom;opacity=50;" parent="1" vertex="1">
           <mxGeometry x="790" y="260" width="310" height="90" as="geometry" />
         </mxCell>
@@ -135,9 +138,6 @@
         </mxCell>
         <mxCell id="QFQmXC5sFYSZ4ZFRvqXh-54" value="AI 모델 생성" style="fillColor=#28A8E0;verticalLabelPosition=bottom;html=1;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=ellipse;resIcon=mxgraph.cisco_safe.capability.analysis_correlation;opacity=50;" parent="1" vertex="1">
           <mxGeometry x="924" y="266.25" width="57" height="53" as="geometry" />
-        </mxCell>
-        <mxCell id="QFQmXC5sFYSZ4ZFRvqXh-55" value="데이터 수집" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Analysis_Services.svg;opacity=50;" parent="1" vertex="1">
-          <mxGeometry x="830.82" y="270.75" width="62.18" height="48.5" as="geometry" />
         </mxCell>
         <mxCell id="QFQmXC5sFYSZ4ZFRvqXh-59" value="SW Core" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#60A337;gradientDirection=north;fillColor=#277116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.internet_of_things;" parent="1" vertex="1">
           <mxGeometry x="770" y="242" width="40" height="40" as="geometry" />
