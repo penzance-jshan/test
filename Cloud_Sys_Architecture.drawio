@@ -1,4 +1,4 @@
-<mxfile modified="2020-09-14T04:18:56.363Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="_BMa4gz9euPM70MZvu1u" version="13.6.9" type="github">
+<mxfile modified="2020-09-14T04:19:13.923Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="YkpK60P-p6ZblxvrrA7m" version="13.6.9" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1030,7 +1030,7 @@
         <mxCell id="BgYx47iS89JeFPh7B9zp-564" value="공지 사항" style="strokeColor=none;fillColor=none;fontSize=12;align=left;html=1;rounded=1;glass=0;fontStyle=1;fontColor=#2E2536;" vertex="1" parent="1">
           <mxGeometry x="680" y="5276" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="BgYx47iS89JeFPh7B9zp-565" value="Main Branch" style="strokeColor=none;fillColor=#EDEEEF;fontSize=11;fontColor=#596780;rounded=1;html=1;glass=0;align=center;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="BgYx47iS89JeFPh7B9zp-565" value="Main Br." style="strokeColor=none;fillColor=#EDEEEF;fontSize=11;fontColor=#596780;rounded=1;html=1;glass=0;align=center;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1052.8" y="5278" width="65" height="20" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-566" value="포털 사용에 대한 공지" style="strokeColor=none;fillColor=none;fontSize=12;align=left;html=1;rounded=1;glass=0;fontStyle=1;fontColor=#2E2536;" vertex="1" parent="1">
