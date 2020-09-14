@@ -1,4 +1,4 @@
-<mxfile modified="2020-09-14T02:26:15.411Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="2yQT1M75YDmkWzRJRpyc" version="13.6.9" type="github">
+<mxfile modified="2020-09-14T02:37:02.644Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="vz1gUXk8RPnrLhDQEMfT" version="13.6.9" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -546,20 +546,89 @@
         <mxCell id="BgYx47iS89JeFPh7B9zp-260" value="보증 목적" style="swimlane;connectable=0;startSize=20;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-219">
           <mxGeometry x="40" width="170" height="73" as="geometry" />
         </mxCell>
+        <mxCell id="BgYx47iS89JeFPh7B9zp-276" value="위협이 심각하지 않은 경우&lt;br&gt;기초 수준의 보증" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-260">
+          <mxGeometry x="6" y="30" width="160" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-220" value="범위" style="swimlane;connectable=0;startSize=20;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-219">
           <mxGeometry x="210" width="170" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="BgYx47iS89JeFPh7B9zp-286" value="위협이 심각하지 않은 경우&lt;br&gt;기초 수준의 보증" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-220">
+          <mxGeometry x="6.25" y="30" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BgYx47iS89JeFPh7B9zp-292" value="위협이 심각하지 않은 경우&lt;br&gt;기초 수준의 보증" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-220">
+          <mxGeometry x="5.25" y="465.5" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BgYx47iS89JeFPh7B9zp-291" value="위협이 심각하지 않은 경우&lt;br&gt;기초 수준의 보증" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-220">
+          <mxGeometry x="5.25" y="386.75" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BgYx47iS89JeFPh7B9zp-290" value="개발문서가 충분하지 않은&lt;br&gt;기 제품에 최소한 보증 제공" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-220">
+          <mxGeometry x="5.25" y="316.5" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BgYx47iS89JeFPh7B9zp-289" value="위협이 심각하지 않은 경우&lt;br&gt;기초 수준의 보증" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-220">
+          <mxGeometry x="7.25" y="246.25" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BgYx47iS89JeFPh7B9zp-288" value="위협이 심각하지 않은 경우&lt;br&gt;기초 수준의 보증" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-220">
+          <mxGeometry x="5.25" y="170.5" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BgYx47iS89JeFPh7B9zp-287" value="개발문서가 충분하지 않은&lt;br&gt;기 제품에 최소한 보증 제공" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-220">
+          <mxGeometry x="5.25" y="96" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-221" value="상세" style="swimlane;connectable=0;startSize=20;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-219">
           <mxGeometry x="380" width="170" height="73" as="geometry" />
         </mxCell>
+        <mxCell id="BgYx47iS89JeFPh7B9zp-293" value="위협이 심각하지 않은 경우&lt;br&gt;기초 수준의 보증" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-221">
+          <mxGeometry x="5" y="30" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BgYx47iS89JeFPh7B9zp-299" value="위협이 심각하지 않은 경우&lt;br&gt;기초 수준의 보증" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-221">
+          <mxGeometry x="4" y="465.5" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BgYx47iS89JeFPh7B9zp-298" value="위협이 심각하지 않은 경우&lt;br&gt;기초 수준의 보증" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-221">
+          <mxGeometry x="4" y="386.75" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BgYx47iS89JeFPh7B9zp-297" value="개발문서가 충분하지 않은&lt;br&gt;기 제품에 최소한 보증 제공" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-221">
+          <mxGeometry x="4" y="316.5" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BgYx47iS89JeFPh7B9zp-296" value="위협이 심각하지 않은 경우&lt;br&gt;기초 수준의 보증" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-221">
+          <mxGeometry x="6" y="246.25" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BgYx47iS89JeFPh7B9zp-295" value="위협이 심각하지 않은 경우&lt;br&gt;기초 수준의 보증" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-221">
+          <mxGeometry x="4" y="170.5" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BgYx47iS89JeFPh7B9zp-294" value="개발문서가 충분하지 않은&lt;br&gt;기 제품에 최소한 보증 제공" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-221">
+          <mxGeometry x="4" y="96" width="160" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-222" value="엄격" style="swimlane;connectable=0;startSize=20;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-219">
           <mxGeometry x="550" width="170" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="BgYx47iS89JeFPh7B9zp-306" value="위협이 심각하지 않은 경우&lt;br&gt;기초 수준의 보증" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-222">
+          <mxGeometry x="4" y="465.5" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BgYx47iS89JeFPh7B9zp-305" value="위협이 심각하지 않은 경우&lt;br&gt;기초 수준의 보증" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-222">
+          <mxGeometry x="4" y="386.75" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BgYx47iS89JeFPh7B9zp-304" value="개발문서가 충분하지 않은&lt;br&gt;기 제품에 최소한 보증 제공" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-222">
+          <mxGeometry x="4" y="316.5" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BgYx47iS89JeFPh7B9zp-303" value="위협이 심각하지 않은 경우&lt;br&gt;기초 수준의 보증" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-222">
+          <mxGeometry x="6" y="246.25" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BgYx47iS89JeFPh7B9zp-302" value="위협이 심각하지 않은 경우&lt;br&gt;기초 수준의 보증" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-222">
+          <mxGeometry x="4" y="170.5" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BgYx47iS89JeFPh7B9zp-301" value="개발문서가 충분하지 않은&lt;br&gt;기 제품에 최소한 보증 제공" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-222">
+          <mxGeometry x="4" y="96" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BgYx47iS89JeFPh7B9zp-300" value="위협이 심각하지 않은 경우&lt;br&gt;기초 수준의 보증" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-222">
+          <mxGeometry x="5" y="30" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-223" value="EAL2" style="swimlane;horizontal=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-218">
           <mxGeometry y="103" width="720" height="76" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-261" style="swimlane;connectable=0;startSize=0;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-223">
           <mxGeometry x="40" width="170" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="BgYx47iS89JeFPh7B9zp-277" value="개발문서가 충분하지 않은&lt;br&gt;기 제품에 최소한 보증 제공" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-261">
+          <mxGeometry x="5" y="23" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-224" value="" style="swimlane;connectable=0;startSize=0;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-223">
           <mxGeometry x="210" width="170" height="76" as="geometry" />
@@ -575,6 +644,9 @@
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-262" style="swimlane;connectable=0;startSize=0;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-227">
           <mxGeometry x="40" width="170" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="BgYx47iS89JeFPh7B9zp-278" value="개발방법론 변경 없이 기존&lt;br&gt;제품에 중간 수준의 보증 제공" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-262">
+          <mxGeometry y="21.5" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-228" value="" style="swimlane;connectable=0;startSize=0;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-227">
           <mxGeometry x="210" width="170" height="73" as="geometry" />
@@ -606,6 +678,21 @@
         <mxCell id="BgYx47iS89JeFPh7B9zp-264" style="swimlane;connectable=0;startSize=0;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-244">
           <mxGeometry x="40" width="170" height="73" as="geometry" />
         </mxCell>
+        <mxCell id="BgYx47iS89JeFPh7B9zp-279" value="위협이 심각하지 않은 경우&lt;br&gt;기초 수준의 보증" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-264">
+          <mxGeometry x="7" y="-48.75" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BgYx47iS89JeFPh7B9zp-285" value="위협이 심각하지 않은 경우&lt;br&gt;기초 수준의 보증" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-264">
+          <mxGeometry x="5" y="170.5" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BgYx47iS89JeFPh7B9zp-284" value="위협이 심각하지 않은 경우&lt;br&gt;기초 수준의 보증" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-264">
+          <mxGeometry x="5" y="91.75" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BgYx47iS89JeFPh7B9zp-283" value="개발문서가 충분하지 않은&lt;br&gt;기 제품에 최소한 보증 제공" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-264">
+          <mxGeometry x="5" y="21.5" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BgYx47iS89JeFPh7B9zp-280" value="개발문서가 충분하지 않은&lt;br&gt;기 제품에 최소한 보증 제공" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-264">
+          <mxGeometry x="5" y="21.5" width="160" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-245" style="swimlane;connectable=0;startSize=0;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-244">
           <mxGeometry x="210" width="170" height="73" as="geometry" />
         </mxCell>
@@ -621,6 +708,9 @@
         <mxCell id="BgYx47iS89JeFPh7B9zp-265" style="swimlane;connectable=0;startSize=0;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-248">
           <mxGeometry x="40" width="170" height="76" as="geometry" />
         </mxCell>
+        <mxCell id="BgYx47iS89JeFPh7B9zp-281" value="위협이 심각하지 않은 경우&lt;br&gt;기초 수준의 보증" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-265">
+          <mxGeometry x="5" y="18.75" width="160" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-249" style="swimlane;connectable=0;startSize=0;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-248">
           <mxGeometry x="210" width="170" height="76" as="geometry" />
         </mxCell>
@@ -635,6 +725,9 @@
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-266" style="swimlane;connectable=0;startSize=0;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-252">
           <mxGeometry x="40" width="170" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="BgYx47iS89JeFPh7B9zp-282" value="위협이 심각하지 않은 경우&lt;br&gt;기초 수준의 보증" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-266">
+          <mxGeometry x="5" y="21.5" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-253" style="swimlane;connectable=0;startSize=0;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-252">
           <mxGeometry x="210" width="170" height="73" as="geometry" />
