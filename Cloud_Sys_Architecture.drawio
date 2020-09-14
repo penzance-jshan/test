@@ -1,4 +1,4 @@
-<mxfile modified="2020-09-14T01:04:48.866Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="13hBJbsafLG71tVRnloX" version="13.6.9" type="github">
+<mxfile modified="2020-09-14T01:07:42.751Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="yfmSN4-exv2zIvzuxYIK" version="13.6.9" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -283,7 +283,7 @@
         <mxCell id="P20q1qlM85yPXvBPcYlH-28" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;fontSize=22;labelBackgroundColor=none;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="570" y="1355" width="532.5" height="225" as="geometry" />
         </mxCell>
-        <mxCell id="P20q1qlM85yPXvBPcYlH-29" value="&lt;span&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/span&gt;&lt;br&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="P20q1qlM85yPXvBPcYlH-29" value="테스팅을 위한 장비로서 등록된 장비만이 SW를 사용 가능&lt;br&gt;&lt;br&gt;Computer에 설정된 노트북 및 Desktop에서 접속하고 하드웨어 등록 및 설정&lt;br&gt;&lt;br&gt;&amp;nbsp;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="600" y="1365" width="490" height="205" as="geometry" />
         </mxCell>
         <mxCell id="o9lZUVFjSXX-9Ml6_j3k-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;fontColor=#0000CC;" parent="1" source="o9lZUVFjSXX-9Ml6_j3k-1" target="o9lZUVFjSXX-9Ml6_j3k-3" edge="1">
@@ -379,13 +379,13 @@
         <mxCell id="o9lZUVFjSXX-9Ml6_j3k-29" value="Output" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="830.8199999999999" y="1840" width="114" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="BgYx47iS89JeFPh7B9zp-2" value="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="BgYx47iS89JeFPh7B9zp-2" value="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;perimeterSpacing=11;arcSize=12;" vertex="1" parent="1">
           <mxGeometry x="551.25" y="960" width="40" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="BgYx47iS89JeFPh7B9zp-3" value="2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="BgYx47iS89JeFPh7B9zp-3" value="2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;perimeterSpacing=11;arcSize=12;glass=0;perimeter=rectanglePerimeter;" vertex="1" parent="1">
           <mxGeometry x="551.25" y="1150" width="40" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="BgYx47iS89JeFPh7B9zp-4" value="3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="BgYx47iS89JeFPh7B9zp-4" value="3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;perimeterSpacing=11;arcSize=12;" vertex="1" parent="1">
           <mxGeometry x="551.25" y="1355" width="40" height="38" as="geometry" />
         </mxCell>
       </root>
