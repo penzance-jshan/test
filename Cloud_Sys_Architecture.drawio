@@ -1,4 +1,4 @@
-<mxfile modified="2020-09-14T04:29:29.151Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="wb3bgb8AtK96xWDt_ygu" version="13.6.9" type="github">
+<mxfile modified="2020-09-14T04:30:22.877Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="8uWBuobU9S3HlJJ4BAQ0" version="13.6.9" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -840,8 +840,8 @@
         <mxCell id="BgYx47iS89JeFPh7B9zp-385" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;overflow=hidden;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-341">
           <mxGeometry x="174" width="146" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="BgYx47iS89JeFPh7B9zp-68" value="[Layer 6 &amp;amp; 7] 공유 플랫폼 및 기타 서비스" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="79.99999999999999" y="5020" width="310" height="20" as="geometry" />
+        <mxCell id="BgYx47iS89JeFPh7B9zp-68" value="[Layer 6 &amp;amp; 7] 공유 플랫폼 및 기타 서비스 예상 메뉴" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="79.99999999999999" y="5020" width="380" height="20" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-86" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.device" vertex="1" parent="1">
           <mxGeometry x="101.15" y="2970" width="38.46" height="20" as="geometry" />
