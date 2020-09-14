@@ -1,4 +1,4 @@
-<mxfile modified="2020-09-14T04:39:46.385Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="-b986evON8juXOsJcOht" version="13.6.9" type="github">
+<mxfile modified="2020-09-14T04:40:01.282Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="bz2_Lqk-g6VHAggfHIWb" version="13.6.9" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -967,7 +967,7 @@
         <mxCell id="BgYx47iS89JeFPh7B9zp-523" value="공유 플랫폼 - 게시판" style="swimlane;html=1;startSize=20;horizontal=1;childLayout=treeLayout;horizontalTree=0;resizable=0;containerType=tree;" vertex="1" parent="1">
           <mxGeometry x="95" y="5230" width="560" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="BgYx47iS89JeFPh7B9zp-524" value="게시판" style="whiteSpace=wrap;html=1;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-523">
+        <mxCell id="BgYx47iS89JeFPh7B9zp-524" value="게시판" style="whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="BgYx47iS89JeFPh7B9zp-523">
           <mxGeometry x="230" y="40" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-525" value="공지사항" style="whiteSpace=wrap;html=1;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-523">
@@ -1001,7 +1001,7 @@
         <mxCell id="BgYx47iS89JeFPh7B9zp-539" value="공유 플랫폼 - 링크" style="swimlane;html=1;startSize=20;horizontal=1;childLayout=treeLayout;horizontalTree=0;resizable=0;containerType=tree;" vertex="1" parent="1">
           <mxGeometry x="95" y="5490" width="560" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="BgYx47iS89JeFPh7B9zp-540" value="메뉴 링크" style="whiteSpace=wrap;html=1;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-539">
+        <mxCell id="BgYx47iS89JeFPh7B9zp-540" value="메뉴 링크" style="whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="BgYx47iS89JeFPh7B9zp-539">
           <mxGeometry x="230" y="40" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BgYx47iS89JeFPh7B9zp-541" value="매뉴얼" style="whiteSpace=wrap;html=1;" vertex="1" parent="BgYx47iS89JeFPh7B9zp-539">
