@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-09T07:05:30.867Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="WAMf9Jzjbl5lHzNn4bGn" version="13.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-25T01:44:44.615Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="Q-xKr9iKDAOKnrDyDCDs" version="13.7.5" type="github">
   <diagram name="Page-1" id="2c0d36ab-eaac-3732-788b-9136903baeff">
-    <mxGraphModel dx="3555" dy="1985" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1654" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2031" dy="1064" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1654" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -97,7 +97,7 @@
         <mxCell id="55" value="Messages" style="rounded=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="2260" y="794.5000000000001" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="56" value="MSDN" style="rounded=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+        <mxCell id="56" value="API_MANUAL" style="rounded=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="2260" y="884.5000000000001" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="59" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=2;rounded=0" parent="1" source="2" target="12" edge="1">
@@ -1591,7 +1591,7 @@
         <mxCell id="nzsDiyqTzNi6m4tCvEMQ-215" value="Messages" style="rounded=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="616.5" y="7734.5" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nzsDiyqTzNi6m4tCvEMQ-216" value="MSDN" style="rounded=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+        <mxCell id="nzsDiyqTzNi6m4tCvEMQ-216" value="API_MANUAL" style="rounded=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="616.5" y="7824.5" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nzsDiyqTzNi6m4tCvEMQ-217" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeWidth=2;rounded=0" parent="1" source="nzsDiyqTzNi6m4tCvEMQ-206" target="nzsDiyqTzNi6m4tCvEMQ-207" edge="1">
@@ -1711,652 +1711,652 @@
         <mxCell id="nzsDiyqTzNi6m4tCvEMQ-755" value="Continued on next page" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="2127.5" y="5200" width="240" height="44.05" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-177" value="" style="fillColor=#10739E;strokeColor=none;opacity=30;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-177" value="" style="fillColor=#10739E;strokeColor=none;opacity=30;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1290" y="2009.5" width="1087.5" height="1190" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-178" value="Name" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;fontColor=#596780;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-178" value="Name" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;fontColor=#596780;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1330" y="2038.49" width="242.85714285714286" height="44.05286343612335" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-179" value="Depth" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;fontColor=#596780;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-179" value="Depth" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;fontColor=#596780;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1699.997142857143" y="2038.49" width="113.33333333333334" height="44.05286343612335" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-180" value="Description" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;fontColor=#596780;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-180" value="Description" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;fontColor=#596780;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1830" y="2038.49" width="520" height="44.05" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-181" value="" style="shape=line;strokeWidth=2;html=1;strokeColor=#DFE1E5;resizeWidth=1;fontSize=20;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-181" value="" style="shape=line;strokeWidth=2;html=1;strokeColor=#DFE1E5;resizeWidth=1;fontSize=20;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="1330" y="2082.5428634361233" width="1020.0000000000002" height="22.026431718061676" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-182" value="Resource" style="shape=mxgraph.office.concepts.folders;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-182" value="Resource" style="shape=mxgraph.office.concepts.folders;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" parent="1" vertex="1">
           <mxGeometry x="1330" y="2124.3930837004405" width="29.142857142857146" height="35.242290748898675" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-183" value="프로그램을 구성하는 리소스들을 관리하는 폴더&amp;nbsp;" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-183" value="프로그램을 구성하는 리소스들을 관리하는 폴더&amp;nbsp;" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1830" y="2119.99" width="520" height="44.05" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-184" value="Images" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-184" value="Images" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" parent="1" vertex="1">
           <mxGeometry x="1370.86" y="2190.4723788546253" width="29.142857142857146" height="35.242290748898675" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-185" value="프로그램을 구성하는 image 들을 모아놓은 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-185" value="프로그램을 구성하는 image 들을 모아놓은 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1830" y="2188.49" width="520" height="41.63" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-186" value="Background" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-186" value="Background" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" parent="1" vertex="1">
           <mxGeometry x="1420" y="2252.1416740088107" width="29.142857142857146" height="35.242290748898675" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-187" value="프로그램 배경 image 들을 모아놓은 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-187" value="프로그램 배경 image 들을 모아놓은 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1830" y="2252.1499999999996" width="520" height="44.05" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-188" value="Icon" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-188" value="Icon" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" parent="1" vertex="1">
           <mxGeometry x="1420" y="2318.2209691629955" width="29.142857142857146" height="35.242290748898675" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-189" value="4" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-189" value="4" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1699.997142857143" y="2318.225682819383" width="113.33333333333334" height="44.05286343612335" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-190" value="프로그램에서 사용되는 icon image 들을 모아놓은 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-190" value="프로그램에서 사용되는 icon image 들을 모아놓은 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1830" y="2318.2299999999996" width="520" height="44.05" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-191" value="" style="shape=line;strokeWidth=2;html=1;strokeColor=#DFE1E5;resizeWidth=1;fontSize=20;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-191" value="" style="shape=line;strokeWidth=2;html=1;strokeColor=#DFE1E5;resizeWidth=1;fontSize=20;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="1330" y="3148.493568281938" width="1020.0000000000002" height="22.026431718061676" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-192" value="2" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-192" value="2" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1699.997142857143" y="2119.987797356828" width="113.33333333333334" height="44.05286343612335" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-193" value="3" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-193" value="3" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1699.997142857143" y="2186.067092511013" width="113.33333333333334" height="44.05286343612335" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-194" value="4" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-194" value="4" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1699.997142857143" y="2252.146387665198" width="113.33333333333334" height="44.05286343612335" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-195" value="Others" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-195" value="Others" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" parent="1" vertex="1">
           <mxGeometry x="1420" y="2378.4823788546255" width="29.142857142857146" height="35.242290748898675" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-196" value="기타 해당 항목 외 image 들을 모아놓은 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-196" value="기타 해당 항목 외 image 들을 모아놓은 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1830" y="2380.91" width="520" height="41.63" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-197" value="Fonts" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-197" value="Fonts" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" parent="1" vertex="1">
           <mxGeometry x="1370.86" y="2448.9716740088106" width="29.142857142857146" height="35.242290748898675" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-198" value="프로그램에서 사용되는 font 들을 모아놓은 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-198" value="프로그램에서 사용되는 font 들을 모아놓은 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1830" y="2444.5699999999997" width="520" height="44.05" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-199" value="Common" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-199" value="Common" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" parent="1" vertex="1">
           <mxGeometry x="1420" y="2510.6509691629954" width="29.142857142857146" height="35.242290748898675" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-200" value="4" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-200" value="4" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1699.997142857143" y="2510.645682819383" width="113.33333333333334" height="44.05286343612335" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-201" value="공통적으로 사용되는 font 들을 모아놓은 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-201" value="공통적으로 사용되는 font 들을 모아놓은 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1830" y="2510.6499999999996" width="520" height="44.05" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-202" value="4" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-202" value="4" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1699.997142857143" y="2378.487092511013" width="113.33333333333334" height="44.05286343612335" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-203" value="3" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-203" value="3" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1699.997142857143" y="2444.566387665198" width="113.33333333333334" height="44.05286343612335" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-204" value="Others" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-204" value="Others" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" parent="1" vertex="1">
           <mxGeometry x="1420" y="2572.9923788546253" width="29.142857142857146" height="35.242290748898675" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-205" value="기타 해당 항목 외에 사용되는 font 들을 모아놓은 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-205" value="기타 해당 항목 외에 사용되는 font 들을 모아놓은 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1830" y="2575.41" width="520" height="41.63" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-206" value="Properties" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-206" value="Properties" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" parent="1" vertex="1">
           <mxGeometry x="1370.86" y="2643.4716740088106" width="29.142857142857146" height="35.242290748898675" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-207" value="프로그램에서 동작할 각종 property 들을 모아놓은 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-207" value="프로그램에서 동작할 각종 property 들을 모아놓은 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1830" y="2639.0699999999997" width="520" height="44.05" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-208" value="Guide" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-208" value="Guide" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" parent="1" vertex="1">
           <mxGeometry x="1420" y="2707.4909691629955" width="29.142857142857146" height="35.242290748898675" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-209" value="4" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-209" value="4" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1699.997142857143" y="2705.145682819383" width="113.33333333333334" height="44.05286343612335" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-210" value="프로그램 사용법에 대한 property&amp;nbsp;들을 모아놓은 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-210" value="프로그램 사용법에 대한 property&amp;nbsp;들을 모아놓은 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1830" y="2705.1499999999996" width="520" height="44.05" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-211" value="4" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-211" value="4" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1699.997142857143" y="2572.987092511013" width="113.33333333333334" height="44.05286343612335" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-212" value="3" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-212" value="3" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1699.997142857143" y="2639.066387665198" width="113.33333333333334" height="44.05286343612335" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-213" value="Language" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-213" value="Language" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" parent="1" vertex="1">
           <mxGeometry x="1420" y="2767.7523788546255" width="29.142857142857146" height="35.242290748898675" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-214" value="프로그램 다국어 지원을 위한 property들을 모아놓은 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-214" value="프로그램 다국어 지원을 위한 property들을 모아놓은 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1830" y="2767.83" width="520" height="41.63" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-215" value="Analysis" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-215" value="Analysis" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" parent="1" vertex="1">
           <mxGeometry x="1420" y="2835.8916740088107" width="29.142857142857146" height="35.242290748898675" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-216" value="분석 시스템에 대한 property&amp;nbsp;들을 모아놓은 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-216" value="분석 시스템에 대한 property&amp;nbsp;들을 모아놓은 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1830" y="2831.49" width="520" height="44.05" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-217" value="Environment" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-217" value="Environment" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" parent="1" vertex="1">
           <mxGeometry x="1470" y="2897.5709691629954" width="29.142857142857146" height="35.242290748898675" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-218" value="5" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-218" value="5" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1700" y="2897.5699999999997" width="113.33" height="40.92" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-219" value="분석 시스템 환경설정에 관한 property들을 모아놓은 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-219" value="분석 시스템 환경설정에 관한 property들을 모아놓은 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1830" y="2897.5699999999997" width="520" height="44.05" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-220" value="4" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-220" value="4" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1699.997142857143" y="2765.407092511013" width="113.33333333333334" height="44.05286343612335" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-221" value="4" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-221" value="4" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1699.997142857143" y="2831.486387665198" width="113.33333333333334" height="44.05286343612335" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-222" value="List" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-222" value="List" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" parent="1" vertex="1">
           <mxGeometry x="1470" y="2958.4909691629955" width="29.142857142857146" height="35.242290748898675" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-223" value="5" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-223" value="5" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1699.997142857143" y="2958.4856828193833" width="113.33333333333334" height="44.05286343612335" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-224" value="분석 시스템 분석항목 리스트 property들을 모아놓은 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-224" value="분석 시스템 분석항목 리스트 property들을 모아놓은 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1830" y="2958.49" width="520" height="44.05" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-225" value="AI" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-225" value="AI" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" parent="1" vertex="1">
           <mxGeometry x="1420" y="3021.1723788546255" width="29.142857142857146" height="35.242290748898675" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-226" value="인공지능 parameter property 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-226" value="인공지능 parameter property 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1830" y="3021.17" width="520" height="41.63" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-227" value="DATA" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-227" value="DATA" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" parent="1" vertex="1">
           <mxGeometry x="1420" y="3087.251674008811" width="29.142857142857146" height="35.242290748898675" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-228" value="생성 데이터 및 분석 데이터들을 관리하는 property 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-228" value="생성 데이터 및 분석 데이터들을 관리하는 property 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1830" y="3084.83" width="520" height="44.05" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-229" value="4" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-229" value="4" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1699.997142857143" y="3018.7470925110133" width="113.33333333333334" height="44.05286343612335" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-230" value="4" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-230" value="4" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1699.997142857143" y="3084.826387665198" width="113.33333333333334" height="44.05286343612335" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-231" value="" style="fillColor=#10739E;strokeColor=none;opacity=30;" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-231" value="" style="fillColor=#10739E;strokeColor=none;opacity=30;" parent="1" vertex="1">
           <mxGeometry x="1280" y="3750" width="1087.5" height="1440" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-232" value="Name" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;fontColor=#596780;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-232" value="Name" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;fontColor=#596780;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1320" y="3800" width="242.85714285714286" height="44.05286343612335" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-233" value="Depth" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;fontColor=#596780;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-233" value="Depth" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;fontColor=#596780;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1689.997142857143" y="3800" width="113.33333333333334" height="44.05286343612335" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-234" value="Description" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;fontColor=#596780;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-234" value="Description" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;fontColor=#596780;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1820" y="3800" width="520" height="44.05" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-235" value="" style="shape=line;strokeWidth=2;html=1;strokeColor=#DFE1E5;resizeWidth=1;fontSize=20;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-235" value="" style="shape=line;strokeWidth=2;html=1;strokeColor=#DFE1E5;resizeWidth=1;fontSize=20;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="1320" y="3844.0528634361235" width="1020.0000000000002" height="22.026431718061676" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-236" value="App" style="shape=mxgraph.office.concepts.folders;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-236" value="App" style="shape=mxgraph.office.concepts.folders;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" parent="1" vertex="1">
           <mxGeometry x="1320" y="3885.90308370044" width="29.142857142857146" height="35.242290748898675" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-237" value="프로그램 동작 파일들을 모아놓는 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-237" value="프로그램 동작 파일들을 모아놓는 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1820" y="3881.5" width="520" height="44.05" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-238" value="Component" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-238" value="Component" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" parent="1" vertex="1">
           <mxGeometry x="1360.86" y="3951.9823788546255" width="29.142857142857146" height="35.242290748898675" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-239" value="중복 컴퍼넌트 들을 모아놓은 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-239" value="중복 컴퍼넌트 들을 모아놓은 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1820" y="3950" width="520" height="41.63" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-240" value="UI" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-240" value="UI" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" parent="1" vertex="1">
           <mxGeometry x="1410" y="4013.651674008811" width="29.142857142857146" height="35.242290748898675" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-241" value="기본 설정 UI 컴퍼넌트" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-241" value="기본 설정 UI 컴퍼넌트" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1820" y="4013.66" width="520" height="44.05" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-242" value="Logger" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-242" value="Logger" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" parent="1" vertex="1">
           <mxGeometry x="1410" y="4079.7309691629953" width="29.142857142857146" height="35.242290748898675" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-243" value="4" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-243" value="4" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1689.997142857143" y="4079.7356828193833" width="113.33333333333334" height="44.05286343612335" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-244" value="시스템 로그 기록을 나타내는 컴퍼넌트" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-244" value="시스템 로그 기록을 나타내는 컴퍼넌트" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1820" y="4079.74" width="520" height="44.05" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-245" value="" style="shape=line;strokeWidth=2;html=1;strokeColor=#DFE1E5;resizeWidth=1;fontSize=20;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-245" value="" style="shape=line;strokeWidth=2;html=1;strokeColor=#DFE1E5;resizeWidth=1;fontSize=20;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="1320" y="5141.313568281938" width="1020.0000000000002" height="22.026431718061676" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-246" value="2" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-246" value="2" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1689.997142857143" y="3881.4977973568284" width="113.33333333333334" height="44.05286343612335" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-247" value="3" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-247" value="3" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1689.997142857143" y="3947.577092511013" width="113.33333333333334" height="44.05286343612335" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-248" value="4" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-248" value="4" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1689.997142857143" y="4013.656387665198" width="113.33333333333334" height="44.05286343612335" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-249" value="Reports" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-249" value="Reports" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" parent="1" vertex="1">
           <mxGeometry x="1410" y="4139.992378854626" width="29.142857142857146" height="35.242290748898675" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-250" value="출력 포맷을 설정한 컴퍼넌트" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-250" value="출력 포맷을 설정한 컴퍼넌트" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1820" y="4142.42" width="520" height="41.63" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-251" value="Libs" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-251" value="Libs" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" parent="1" vertex="1">
           <mxGeometry x="1410.4299999999998" y="4210.481674008811" width="29.142857142857146" height="35.242290748898675" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-252" value="라이브러리 컴퍼넌트" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-252" value="라이브러리 컴퍼넌트" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1820" y="4206.08" width="520" height="44.05" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-253" value="View" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-253" value="View" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" parent="1" vertex="1">
           <mxGeometry x="1360" y="4272.160969162996" width="29.142857142857146" height="35.242290748898675" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-254" value="3" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-254" value="3" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1689.997142857143" y="4272.155682819383" width="113.33333333333334" height="44.05286343612335" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-255" value="UI 구성 항목들을 모아놓은 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-255" value="UI 구성 항목들을 모아놓은 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1820" y="4272.16" width="520" height="44.05" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-256" value="4" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-256" value="4" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1689.997142857143" y="4139.997092511013" width="113.33333333333334" height="44.05286343612335" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-257" value="4" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-257" value="4" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1689.997142857143" y="4206.076387665198" width="113.33333333333334" height="44.05286343612335" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-258" value="Pages" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-258" value="Pages" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" parent="1" vertex="1">
           <mxGeometry x="1410" y="4338.902378854625" width="29.142857142857146" height="35.242290748898675" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-259" value="WEB UI 페이지 html 파일 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-259" value="WEB UI 페이지 html 파일 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1820" y="4336.92" width="520" height="41.63" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-260" value="JS" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-260" value="JS" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" parent="1" vertex="1">
           <mxGeometry x="1410" y="4404.981674008811" width="29.142857142857146" height="35.242290748898675" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-261" value="WEB에서 동작하는 JS 파일들을 모아놓은 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-261" value="WEB에서 동작하는 JS 파일들을 모아놓은 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1820" y="4400.58" width="520" height="44.05" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-262" value="CSS" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-262" value="CSS" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" parent="1" vertex="1">
           <mxGeometry x="1410" y="4469.000969162996" width="29.142857142857146" height="35.242290748898675" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-263" value="4" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-263" value="4" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1689.997142857143" y="4466.655682819383" width="113.33333333333334" height="44.05286343612335" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-264" value="WEB CSS 파일들을 모아놓은 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-264" value="WEB CSS 파일들을 모아놓은 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1820" y="4466.66" width="520" height="44.05" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-265" value="4" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-265" value="4" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1689.997142857143" y="4334.497092511013" width="113.33333333333334" height="44.05286343612335" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-266" value="4" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-266" value="4" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1689.997142857143" y="4400.576387665198" width="113.33333333333334" height="44.05286343612335" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-267" value="Plugin" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-267" value="Plugin" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" parent="1" vertex="1">
           <mxGeometry x="1410" y="4529.262378854625" width="29.142857142857146" height="35.242290748898675" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-268" value="WEB에서 사용가능한 Plugin 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-268" value="WEB에서 사용가능한 Plugin 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1820" y="4529.34" width="520" height="41.63" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-269" value="Functions" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-269" value="Functions" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" parent="1" vertex="1">
           <mxGeometry x="1360.86" y="4597.401674008811" width="29.142857142857146" height="35.242290748898675" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-270" value="프로그램의 기능 관련 파일들을 모아놓은 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-270" value="프로그램의 기능 관련 파일들을 모아놓은 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1820" y="4593" width="520" height="44.05" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-271" value="Controllers" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-271" value="Controllers" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" parent="1" vertex="1">
           <mxGeometry x="1410" y="4659.080969162996" width="29.142857142857146" height="35.242290748898675" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-272" value="4" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-272" value="4" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1690" y="4659.08" width="113.33" height="40.92" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-273" value="REST API 컨트롤러 관련 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-273" value="REST API 컨트롤러 관련 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1820" y="4659.08" width="520" height="44.05" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-274" value="4" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-274" value="4" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1689.997142857143" y="4526.917092511013" width="113.33333333333334" height="44.05286343612335" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-275" value="3" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-275" value="3" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1689.997142857143" y="4592.996387665198" width="113.33333333333334" height="44.05286343612335" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-276" value="Modules" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-276" value="Modules" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" parent="1" vertex="1">
           <mxGeometry x="1410" y="4714.500969162996" width="29.142857142857146" height="35.242290748898675" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-277" value="4" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-277" value="4" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1689.997142857143" y="4719.995682819384" width="113.33333333333334" height="44.05286343612335" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-278" value="프로그램 동작 모듈" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-278" value="프로그램 동작 모듈" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1820" y="4720" width="520" height="44.05" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-279" value="Analysis" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-279" value="Analysis" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" parent="1" vertex="1">
           <mxGeometry x="1460" y="4780.252378854625" width="29.142857142857146" height="35.242290748898675" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-280" value="보안 분석 관려 모듈들을 모아놓은 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-280" value="보안 분석 관려 모듈들을 모아놓은 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1820" y="4782.68" width="520" height="41.63" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-281" value="AI" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-281" value="AI" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" parent="1" vertex="1">
           <mxGeometry x="1460" y="4846.33167400881" width="29.142857142857146" height="35.242290748898675" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-282" value="분석에 사용되는 인공지능 모듈 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-282" value="분석에 사용되는 인공지능 모듈 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1820" y="4846.34" width="520" height="44.05" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-283" value="5" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-283" value="5" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1689.997142857143" y="4780.257092511013" width="113.33333333333334" height="44.05286343612335" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-284" value="5" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-284" value="5" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1689.997142857143" y="4846.336387665198" width="113.33333333333334" height="44.05286343612335" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-285" value="Services" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-285" value="Services" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" parent="1" vertex="1">
           <mxGeometry x="1460" y="4907.570969162995" width="29.142857142857146" height="35.242290748898675" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-286" value="5" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-286" value="5" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1690" y="4910" width="113.33" height="40.92" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-287" value="고객 및 공유 서비스 관련 모듈들을 모아놓은 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-287" value="고객 및 공유 서비스 관련 모듈들을 모아놓은 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1820" y="4910" width="520" height="44.05" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-288" value="Board" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-288" value="Board" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" parent="1" vertex="1">
           <mxGeometry x="1460" y="4962.9909691629955" width="29.142857142857146" height="35.242290748898675" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-289" value="5" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-289" value="5" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1689.997142857143" y="4970.915682819384" width="113.33333333333334" height="44.05286343612335" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-290" value="프로그램 외부/내부 게시판 모듈들을 모아놓은 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-290" value="프로그램 외부/내부 게시판 모듈들을 모아놓은 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1820" y="4970.92" width="520" height="44.05" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-291" value="Management" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-291" value="Management" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" parent="1" vertex="1">
           <mxGeometry x="1460" y="5031.172378854625" width="29.142857142857146" height="35.242290748898675" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-292" value="프로그램 관리자 및 백업 모듈들을 모아놓은 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-292" value="프로그램 관리자 및 백업 모듈들을 모아놓은 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1820" y="5033.6" width="520" height="41.63" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-293" value="Languages" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-293" value="Languages" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" parent="1" vertex="1">
           <mxGeometry x="1460" y="5097.25167400881" width="29.142857142857146" height="35.242290748898675" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-294" value="다국어 처리 모듈들을 모아놓은 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-294" value="다국어 처리 모듈들을 모아놓은 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1820" y="5097.26" width="520" height="44.05" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-295" value="5" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-295" value="5" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1689.997142857143" y="5031.177092511013" width="113.33333333333334" height="44.05286343612335" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-296" value="5" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-296" value="5" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1689.997142857143" y="5097.256387665198" width="113.33333333333334" height="44.05286343612335" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-297" value="" style="fillColor=#10739E;strokeColor=none;opacity=30;" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-297" value="" style="fillColor=#10739E;strokeColor=none;opacity=30;" parent="1" vertex="1">
           <mxGeometry x="161.25" y="5520" width="1087.5" height="1320" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-298" value="Name" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;fontColor=#596780;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-298" value="Name" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;fontColor=#596780;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="201.25" y="5570" width="242.85714285714286" height="44.05286343612335" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-299" value="Depth" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;fontColor=#596780;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-299" value="Depth" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;fontColor=#596780;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="571.247142857143" y="5570" width="113.33333333333334" height="44.05286343612335" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-300" value="Description" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;fontColor=#596780;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-300" value="Description" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;fontColor=#596780;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="701.25" y="5570" width="520" height="44.05" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-301" value="" style="shape=line;strokeWidth=2;html=1;strokeColor=#DFE1E5;resizeWidth=1;fontSize=20;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-301" value="" style="shape=line;strokeWidth=2;html=1;strokeColor=#DFE1E5;resizeWidth=1;fontSize=20;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="201.25" y="5614.0528634361235" width="1020.0000000000002" height="22.026431718061676" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-302" value="App" style="shape=mxgraph.office.concepts.folders;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-302" value="App" style="shape=mxgraph.office.concepts.folders;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" parent="1" vertex="1">
           <mxGeometry x="201.25" y="5655.90308370044" width="29.142857142857146" height="35.242290748898675" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-303" value="프로그램 동작 파일들을 모아놓은 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-303" value="프로그램 동작 파일들을 모아놓은 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="701.25" y="5651.5" width="520" height="44.05" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-304" value="Functions" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-304" value="Functions" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" parent="1" vertex="1">
           <mxGeometry x="242.1099999999999" y="5721.9823788546255" width="29.142857142857146" height="35.242290748898675" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-305" value="프로그램 기능관련 파일들을 모아놓은 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-305" value="프로그램 기능관련 파일들을 모아놓은 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="701.25" y="5720" width="520" height="41.63" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-306" value="Directives" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-306" value="Directives" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" parent="1" vertex="1">
           <mxGeometry x="291.25" y="5783.651674008811" width="29.142857142857146" height="35.242290748898675" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-307" value="프로그램 지시기 관련 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-307" value="프로그램 지시기 관련 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="701.25" y="5783.66" width="520" height="44.05" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-308" value="User" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-308" value="User" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" parent="1" vertex="1">
           <mxGeometry x="335.71" y="5849.730969162995" width="29.142857142857146" height="35.242290748898675" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-309" value="5" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-309" value="5" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="571.247142857143" y="5849.735682819383" width="113.33333333333334" height="44.05286343612335" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-310" value="사용자 관련 기능 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-310" value="사용자 관련 기능 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="701.25" y="5849.74" width="520" height="44.05" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-311" value="" style="shape=line;strokeWidth=2;html=1;strokeColor=#DFE1E5;resizeWidth=1;fontSize=20;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-311" value="" style="shape=line;strokeWidth=2;html=1;strokeColor=#DFE1E5;resizeWidth=1;fontSize=20;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="201.25" y="6680.003568281938" width="1020.0000000000002" height="22.026431718061676" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-312" value="2" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-312" value="2" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="571.247142857143" y="5651.497797356828" width="113.33333333333334" height="44.05286343612335" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-313" value="3" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-313" value="3" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="571.247142857143" y="5717.577092511013" width="113.33333333333334" height="44.05286343612335" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-314" value="4" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-314" value="4" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="571.247142857143" y="5783.656387665198" width="113.33333333333334" height="44.05286343612335" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-315" value="Setting" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-315" value="Setting" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" parent="1" vertex="1">
           <mxGeometry x="335.71" y="5909.992378854626" width="29.142857142857146" height="35.242290748898675" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-316" value="프로그램 설정 관련 기능 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-316" value="프로그램 설정 관련 기능 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="701.25" y="5912.42" width="520" height="41.63" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-317" value="Timer" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-317" value="Timer" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" parent="1" vertex="1">
           <mxGeometry x="336.1399999999998" y="5980.481674008811" width="29.142857142857146" height="35.242290748898675" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-318" value="타이머 코드 관련 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-318" value="타이머 코드 관련 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="701.25" y="5976.08" width="520" height="44.05" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-319" value="Chart/Graph" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-319" value="Chart/Graph" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" parent="1" vertex="1">
           <mxGeometry x="335.71" y="6042.160969162996" width="29.142857142857146" height="35.242290748898675" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-320" value="5" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-320" value="5" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="571.247142857143" y="6042.155682819383" width="113.33333333333334" height="44.05286343612335" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-321" value="차트 / 그래프 작성 코드 관련 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-321" value="차트 / 그래프 작성 코드 관련 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="701.25" y="6042.16" width="520" height="44.05" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-322" value="5" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-322" value="5" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="571.247142857143" y="5909.997092511013" width="113.33333333333334" height="44.05286343612335" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-323" value="5" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-323" value="5" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="571.247142857143" y="5976.076387665198" width="113.33333333333334" height="44.05286343612335" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-324" value="Table/Widget" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-324" value="Table/Widget" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" parent="1" vertex="1">
           <mxGeometry x="335.71" y="6108.902378854625" width="29.142857142857146" height="35.242290748898675" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-325" value="테이블 / 위젯 작성 코드 관련 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-325" value="테이블 / 위젯 작성 코드 관련 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="701.25" y="6106.92" width="520" height="41.63" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-326" value="Include" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-326" value="Include" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" parent="1" vertex="1">
           <mxGeometry x="242.11" y="6174.981674008811" width="29.142857142857146" height="35.242290748898675" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-327" value="중복되어 사용되는 contents들을 모아놓은 풀더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-327" value="중복되어 사용되는 contents들을 모아놓은 풀더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="701.25" y="6170.58" width="520" height="44.05" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-328" value="Language" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-328" value="Language" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" parent="1" vertex="1">
           <mxGeometry x="291.25" y="6239.000969162996" width="29.142857142857146" height="35.242290748898675" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-329" value="4" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-329" value="4" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="571.247142857143" y="6236.655682819383" width="113.33333333333334" height="44.05286343612335" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-330" value="다국어 지원을 위해 언어별 정리된 파일들을 저장한 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-330" value="다국어 지원을 위해 언어별 정리된 파일들을 저장한 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="701.25" y="6236.66" width="520" height="44.05" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-331" value="5" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-331" value="5" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="571.247142857143" y="6104.497092511013" width="113.33333333333334" height="44.05286343612335" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-332" value="3" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-332" value="3" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="571.247142857143" y="6170.576387665198" width="113.33333333333334" height="44.05286343612335" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-333" value="Chart/Graph" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-333" value="Chart/Graph" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" parent="1" vertex="1">
           <mxGeometry x="291.25" y="6299.262378854625" width="29.142857142857146" height="35.242290748898675" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-334" value="차트 / 그래프 관련 기본 중복 설정 파일들을 모아놓은 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-334" value="차트 / 그래프 관련 기본 중복 설정 파일들을 모아놓은 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="701.25" y="6299.34" width="520" height="41.63" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-335" value="Term/Conditions" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-335" value="Term/Conditions" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" parent="1" vertex="1">
           <mxGeometry x="291.25" y="6367.401674008811" width="29.142857142857146" height="35.242290748898675" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-336" value="약관 및 용어 설명과 관련된 자료 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-336" value="약관 및 용어 설명과 관련된 자료 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="701.25" y="6363" width="520" height="44.05" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-337" value="Scripts" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-337" value="Scripts" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" parent="1" vertex="1">
           <mxGeometry x="242.1099999999999" y="6429.080969162996" width="29.142857142857146" height="35.242290748898675" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-338" value="3" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-338" value="3" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="571.25" y="6429.08" width="113.33" height="40.92" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-339" value="프로그램 스크립트 관련 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-339" value="프로그램 스크립트 관련 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="701.25" y="6429.08" width="520" height="44.05" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-340" value="4" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-340" value="4" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="571.247142857143" y="6296.917092511013" width="113.33333333333334" height="44.05286343612335" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-341" value="4" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-341" value="4" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="571.247142857143" y="6362.996387665198" width="113.33333333333334" height="44.05286343612335" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-342" value="Database" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-342" value="Database" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" parent="1" vertex="1">
           <mxGeometry x="291.25" y="6484.500969162996" width="29.142857142857146" height="35.242290748898675" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-343" value="4" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-343" value="4" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="571.247142857143" y="6489.995682819384" width="113.33333333333334" height="44.05286343612335" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-344" value="데이터베이스 관련 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-344" value="데이터베이스 관련 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="701.25" y="6490" width="520" height="44.05" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-345" value="Context" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-345" value="Context" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" parent="1" vertex="1">
           <mxGeometry x="291.25" y="6552.682378854625" width="29.142857142857146" height="35.242290748898675" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-346" value="context 관련 스크립트" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-346" value="context 관련 스크립트" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="701.25" y="6552.68" width="520" height="41.63" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-347" value="Config" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-347" value="Config" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" parent="1" vertex="1">
           <mxGeometry x="291.25" y="6618.761674008811" width="29.142857142857146" height="35.242290748898675" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-348" value="프로그램 기본 설정 관련 스크립트" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-348" value="프로그램 기본 설정 관련 스크립트" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="701.25" y="6616.34" width="520" height="44.05" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-349" value="4" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-349" value="4" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="571.247142857143" y="6550.257092511013" width="113.33333333333334" height="44.05286343612335" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-350" value="4" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-350" value="4" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="571.247142857143" y="6616.336387665198" width="113.33333333333334" height="44.05286343612335" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-351" value="" style="fillColor=#10739E;strokeColor=none;opacity=30;" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-351" value="" style="fillColor=#10739E;strokeColor=none;opacity=30;" parent="1" vertex="1">
           <mxGeometry x="1266.5" y="7290" width="1087.5" height="1320" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-352" value="Name" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;fontColor=#596780;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-352" value="Name" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;fontColor=#596780;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1306.5" y="7320" width="242.85714285714286" height="44.05286343612335" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-353" value="Depth" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;fontColor=#596780;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-353" value="Depth" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;fontColor=#596780;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1676.497142857143" y="7320" width="113.33333333333334" height="44.05286343612335" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-354" value="Description" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;fontColor=#596780;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-354" value="Description" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;fontColor=#596780;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1806.5" y="7320" width="520" height="44.05" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-355" value="" style="shape=line;strokeWidth=2;html=1;strokeColor=#DFE1E5;resizeWidth=1;fontSize=20;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-355" value="" style="shape=line;strokeWidth=2;html=1;strokeColor=#DFE1E5;resizeWidth=1;fontSize=20;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="1306.5" y="7364.0528634361235" width="1020.0000000000002" height="22.026431718061676" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-356" value="External App" style="shape=mxgraph.office.concepts.folders;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-356" value="External App" style="shape=mxgraph.office.concepts.folders;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" parent="1" vertex="1">
           <mxGeometry x="1306.5" y="7405.903083700441" width="29.142857142857146" height="35.242290748898675" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-357" value="외부 어플리케이션 관련 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-357" value="외부 어플리케이션 관련 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1806.5" y="7401.5" width="520" height="44.05" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-358" value="DLLs" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-358" value="DLLs" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" parent="1" vertex="1">
           <mxGeometry x="1347.36" y="7471.9823788546255" width="29.142857142857146" height="35.242290748898675" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-359" value="DLL 관련 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-359" value="DLL 관련 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1806.5" y="7470" width="520" height="41.63" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-360" value="Utils" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-360" value="Utils" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" parent="1" vertex="1">
           <mxGeometry x="1396.5" y="7533.651674008811" width="29.142857142857146" height="35.242290748898675" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-361" value="유틸리티 dll 파일들을 모아놓은 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-361" value="유틸리티 dll 파일들을 모아놓은 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1806.5" y="7533.66" width="520" height="44.05" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-362" value="Functions" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-362" value="Functions" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" parent="1" vertex="1">
           <mxGeometry x="1396.5" y="7599.730969162996" width="29.142857142857146" height="35.242290748898675" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-363" value="4" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-363" value="4" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1676.497142857143" y="7599.735682819383" width="113.33333333333334" height="44.05286343612335" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-364" value="기능 dll 파일들을 모아놓은 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-364" value="기능 dll 파일들을 모아놓은 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1806.5" y="7599.74" width="520" height="44.05" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-365" value="" style="shape=line;strokeWidth=2;html=1;strokeColor=#DFE1E5;resizeWidth=1;fontSize=20;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-365" value="" style="shape=line;strokeWidth=2;html=1;strokeColor=#DFE1E5;resizeWidth=1;fontSize=20;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="1306.5" y="8170.003568281938" width="1020.0000000000002" height="22.026431718061676" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-366" value="2" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-366" value="2" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1676.497142857143" y="7401.497797356828" width="113.33333333333334" height="44.05286343612335" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-367" value="3" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-367" value="3" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1676.497142857143" y="7467.577092511014" width="113.33333333333334" height="44.05286343612335" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-368" value="4" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-368" value="4" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1676.497142857143" y="7533.656387665198" width="113.33333333333334" height="44.05286343612335" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-369" value="Lib" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-369" value="Lib" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" parent="1" vertex="1">
           <mxGeometry x="1350" y="7664.402378854626" width="29.142857142857146" height="35.242290748898675" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-370" value="라이브러리 관련 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-370" value="라이브러리 관련 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1806.5" y="7662.42" width="520" height="41.63" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-371" value="Packages" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-371" value="Packages" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" parent="1" vertex="1">
           <mxGeometry x="1396.5" y="7730.481674008811" width="29.142857142857146" height="35.242290748898675" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-372" value="라이브러리 패키지 관련 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-372" value="라이브러리 패키지 관련 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1806.5" y="7726.08" width="520" height="44.05" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-373" value="Models" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-373" value="Models" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" parent="1" vertex="1">
           <mxGeometry x="1396.5" y="7792.160969162996" width="29.142857142857146" height="35.242290748898675" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-374" value="4" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-374" value="4" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1676.5" y="7792.16" width="113.33" height="47.84" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-375" value="외부 프로그램 모델 관련 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-375" value="외부 프로그램 모델 관련 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1806.5" y="7792.16" width="520" height="44.05" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-376" value="3" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-376" value="3" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1676.497142857143" y="7659.997092511014" width="113.33333333333334" height="44.05286343612335" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-377" value="4" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-377" value="4" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1676.497142857143" y="7726.076387665198" width="113.33333333333334" height="44.05286343612335" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-378" value="Others" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-378" value="Others" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" parent="1" vertex="1">
           <mxGeometry x="1347.36" y="7854.492378854626" width="29.142857142857146" height="35.242290748898675" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-379" value="기타 추가적인 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-379" value="기타 추가적인 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1806.5" y="7856.92" width="520" height="41.63" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-380" value="Media" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-380" value="Media" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" parent="1" vertex="1">
           <mxGeometry x="1396.5" y="7920.571674008811" width="29.142857142857146" height="35.242290748898675" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-381" value="음악 / 영상 등 미디어 관련 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-381" value="음악 / 영상 등 미디어 관련 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1806.5" y="7920.58" width="520" height="44.05" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-382" value="Data" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-382" value="Data" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" parent="1" vertex="1">
           <mxGeometry x="1396.5" y="7986.650969162995" width="29.142857142857146" height="35.242290748898675" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-383" value="4" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-383" value="4" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1676.497142857143" y="7986.655682819383" width="113.33333333333334" height="44.05286343612335" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-384" value="외부 데이터 관련 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-384" value="외부 데이터 관련 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1806.5" y="7986.66" width="520" height="44.05" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-385" value="3" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-385" value="3" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1676.497142857143" y="7854.497092511014" width="113.33333333333334" height="44.05286343612335" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-386" value="4" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-386" value="4" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1676.497142857143" y="7920.576387665198" width="113.33333333333334" height="44.05286343612335" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-387" value="Messages" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-387" value="Messages" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" parent="1" vertex="1">
           <mxGeometry x="1396.5" y="8049.262378854626" width="29.142857142857146" height="35.242290748898675" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-388" value="외부에 정의된 메시지 관련 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-388" value="외부에 정의된 메시지 관련 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1806.5" y="8049.34" width="520" height="41.63" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-389" value="MSDN" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-389" value="API_MANUAL" style="shape=mxgraph.office.concepts.folder;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;fontStyle=1;labelPosition=right;align=left;html=1;spacingLeft=5" parent="1" vertex="1">
           <mxGeometry x="1396.5" y="8117.401674008811" width="29.142857142857146" height="35.242290748898675" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-390" value="MSDN 정보를 모아놓은 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-390" value="API 정보를 모아놓은 폴더" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=left;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1806.5" y="8113" width="520" height="44.05" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-391" value="4" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-391" value="4" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1676.497142857143" y="8046.917092511014" width="113.33333333333334" height="44.05286343612335" as="geometry" />
         </mxCell>
-        <mxCell id="u79rwMeshpHsMi6sYovp-392" value="4" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="u79rwMeshpHsMi6sYovp-392" value="4" style="html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1676.497142857143" y="8112.996387665198" width="113.33333333333334" height="44.05286343612335" as="geometry" />
         </mxCell>
       </root>
